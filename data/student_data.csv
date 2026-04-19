@@ -1,0 +1,2001 @@
+student_id,course,institute_tier,cgpa,internships,certifications,job_portal_active,industry_demand,institute_score,placement_months,placement_label,starting_salary
+STU0000,MBA,2,8.66,0,3,1,0.7,0.7,3,placed_3m,860706
+STU0001,Arts,2,7.54,1,4,0,0.35,0.7,6,placed_6m,315447
+STU0002,Nursing,3,6.53,1,3,0,0.6,0.45,12,placed_12m,392744
+STU0003,Data Science,2,7.7,1,4,0,0.85,0.7,12,placed_12m,936493
+STU0004,Engineering,2,6.7,1,4,1,0.75,0.7,6,placed_6m,639183
+STU0005,Engineering,3,6.44,0,2,1,0.75,0.45,6,placed_6m,558419
+STU0006,Engineering,2,5.93,2,0,1,0.75,0.7,6,placed_6m,749008
+STU0007,Law,3,5.27,2,4,1,0.45,0.45,6,placed_6m,553646
+STU0008,Data Science,1,6.77,1,1,1,0.85,1.0,12,placed_12m,1133788
+STU0009,Nursing,2,7.37,0,3,1,0.6,0.7,6,placed_6m,453453
+STU0010,Engineering,1,7.09,2,1,0,0.75,1.0,12,placed_12m,755825
+STU0011,Arts,1,6.74,3,3,0,0.35,1.0,3,placed_3m,391363
+STU0012,Law,3,6.16,0,2,1,0.45,0.45,12,placed_12m,487061
+STU0013,Engineering,1,7.87,1,4,1,0.75,1.0,12,placed_12m,756192
+STU0014,Engineering,2,5.75,0,0,1,0.75,0.7,6,placed_6m,674893
+STU0015,Engineering,2,8.05,1,4,1,0.75,0.7,3,placed_3m,668440
+STU0016,MBA,2,6.1,0,3,0,0.7,0.7,12,placed_12m,988203
+STU0017,Data Science,3,6.37,1,0,0,0.85,0.45,6,placed_6m,973561
+STU0018,MBA,1,5.59,2,4,1,0.7,1.0,12,placed_12m,886764
+STU0019,Engineering,3,6.65,1,0,0,0.75,0.45,12,placed_12m,708783
+STU0020,Data Science,3,8.27,1,3,0,0.85,0.45,12,placed_12m,1111654
+STU0021,Engineering,2,7.77,1,2,1,0.75,0.7,3,placed_3m,725093
+STU0022,Engineering,3,8.28,1,2,0,0.75,0.45,3,placed_3m,714784
+STU0023,MBA,1,7.77,0,4,1,0.7,1.0,3,placed_3m,834101
+STU0024,MBA,2,5.99,0,1,1,0.7,0.7,24,delayed,746085
+STU0025,Nursing,2,6.84,3,3,1,0.6,0.7,6,placed_6m,479059
+STU0026,Engineering,3,6.34,0,4,0,0.75,0.45,12,placed_12m,640560
+STU0027,Data Science,3,8.66,2,4,0,0.85,0.45,6,placed_6m,1192537
+STU0028,Data Science,2,5.88,3,2,1,0.85,0.7,3,placed_3m,1051457
+STU0029,Engineering,3,8.18,1,0,0,0.75,0.45,6,placed_6m,635402
+STU0030,Data Science,1,8.18,1,3,0,0.85,1.0,6,placed_6m,1228035
+STU0031,Engineering,2,9.21,1,0,0,0.75,0.7,12,placed_12m,824309
+STU0032,Engineering,2,6.75,3,3,0,0.75,0.7,6,placed_6m,772096
+STU0033,Arts,3,7.98,3,1,0,0.35,0.45,6,placed_6m,339804
+STU0034,Arts,2,9.71,2,2,1,0.35,0.7,3,placed_3m,397448
+STU0035,Law,2,6.52,0,1,0,0.45,0.7,6,placed_6m,688921
+STU0036,MBA,1,5.51,2,4,0,0.7,1.0,6,placed_6m,891713
+STU0037,Engineering,1,5.13,1,2,1,0.75,1.0,6,placed_6m,613496
+STU0038,Data Science,2,7.98,1,4,1,0.85,0.7,12,placed_12m,1035566
+STU0039,MBA,2,5.13,0,1,0,0.7,0.7,12,placed_12m,803598
+STU0040,Engineering,3,6.79,0,3,0,0.75,0.45,12,placed_12m,555682
+STU0041,MBA,2,7.68,2,4,1,0.7,0.7,3,placed_3m,936015
+STU0042,Engineering,2,7.4,1,0,1,0.75,0.7,6,placed_6m,726866
+STU0043,Arts,1,7.67,1,3,1,0.35,1.0,6,placed_6m,385571
+STU0044,Engineering,3,7.44,1,3,1,0.75,0.45,6,placed_6m,742724
+STU0045,Data Science,3,8.61,2,1,0,0.85,0.45,3,placed_3m,1169928
+STU0046,MBA,1,6.15,2,1,1,0.7,1.0,3,placed_3m,783768
+STU0047,Data Science,3,6.46,1,2,0,0.85,0.45,12,placed_12m,1030304
+STU0048,Data Science,2,6.35,0,2,1,0.85,0.7,12,placed_12m,1025050
+STU0049,Engineering,1,8.11,1,0,1,0.75,1.0,6,placed_6m,778181
+STU0050,Arts,2,8.19,3,3,1,0.35,0.7,12,placed_12m,318109
+STU0051,Nursing,2,7.7,1,0,0,0.6,0.7,12,placed_12m,425983
+STU0052,Arts,1,8.5,1,0,0,0.35,1.0,6,placed_6m,336722
+STU0053,Law,3,5.9,1,1,1,0.45,0.45,12,placed_12m,441170
+STU0054,Data Science,3,9.03,1,0,1,0.85,0.45,12,placed_12m,1079817
+STU0055,Arts,3,8.88,2,0,1,0.35,0.45,6,placed_6m,328753
+STU0056,Engineering,2,8.01,1,4,0,0.75,0.7,12,placed_12m,845290
+STU0057,Engineering,2,9.16,0,2,0,0.75,0.7,12,placed_12m,725698
+STU0058,Engineering,3,5.38,0,2,1,0.75,0.45,6,placed_6m,659931
+STU0059,MBA,2,6.62,1,3,0,0.7,0.7,6,placed_6m,762345
+STU0060,MBA,1,6.39,3,2,1,0.7,1.0,3,placed_3m,915675
+STU0061,Engineering,2,7.99,1,3,1,0.75,0.7,6,placed_6m,730959
+STU0062,Law,3,6.04,2,4,1,0.45,0.45,12,placed_12m,505628
+STU0063,MBA,2,8.03,2,2,1,0.7,0.7,3,placed_3m,913727
+STU0064,Engineering,1,8.71,0,4,1,0.75,1.0,3,placed_3m,757016
+STU0065,Data Science,3,7.96,0,2,0,0.85,0.45,12,placed_12m,985071
+STU0066,Engineering,2,7.51,0,2,1,0.75,0.7,12,placed_12m,773409
+STU0067,Law,2,6.11,2,4,0,0.45,0.7,3,placed_3m,593170
+STU0068,Engineering,1,6.27,0,0,1,0.75,1.0,12,placed_12m,706070
+STU0069,Arts,2,8.57,1,0,0,0.35,0.7,12,placed_12m,355665
+STU0070,Nursing,3,8.06,1,0,1,0.6,0.45,6,placed_6m,460828
+STU0071,Engineering,2,7.16,2,0,0,0.75,0.7,6,placed_6m,717233
+STU0072,Engineering,2,6.74,0,2,0,0.75,0.7,12,placed_12m,645813
+STU0073,Law,3,4.97,1,1,1,0.45,0.45,12,placed_12m,505129
+STU0074,Nursing,3,6.02,1,4,0,0.6,0.45,6,placed_6m,438702
+STU0075,Nursing,3,9.3,1,1,1,0.6,0.45,24,delayed,485852
+STU0076,Nursing,2,5.79,2,1,1,0.6,0.7,3,placed_3m,425888
+STU0077,Engineering,2,7.41,0,3,0,0.75,0.7,6,placed_6m,725609
+STU0078,MBA,3,8.31,2,0,1,0.7,0.45,6,placed_6m,895506
+STU0079,Engineering,3,5.82,2,2,0,0.75,0.45,6,placed_6m,652713
+STU0080,Law,1,7.4,1,0,0,0.45,1.0,24,delayed,582805
+STU0081,Data Science,1,8.23,2,0,1,0.85,1.0,6,placed_6m,1171098
+STU0082,MBA,2,7.21,1,1,1,0.7,0.7,12,placed_12m,949745
+STU0083,Engineering,3,10.0,0,3,0,0.75,0.45,12,placed_12m,733436
+STU0084,MBA,2,5.36,2,0,1,0.7,0.7,6,placed_6m,842412
+STU0085,MBA,2,8.36,1,4,1,0.7,0.7,3,placed_3m,839651
+STU0086,Nursing,1,7.01,2,4,1,0.6,1.0,6,placed_6m,467370
+STU0087,Data Science,3,8.05,1,0,0,0.85,0.45,12,placed_12m,1018335
+STU0088,Law,3,7.69,3,1,1,0.45,0.45,6,placed_6m,572720
+STU0089,MBA,2,6.39,1,1,1,0.7,0.7,12,placed_12m,839807
+STU0090,Engineering,3,7.45,0,2,1,0.75,0.45,6,placed_6m,639456
+STU0091,Nursing,3,5.16,1,3,1,0.6,0.45,24,delayed,375268
+STU0092,Nursing,2,7.86,2,1,1,0.6,0.7,3,placed_3m,476259
+STU0093,Data Science,2,7.53,2,2,0,0.85,0.7,6,placed_6m,1029694
+STU0094,Nursing,2,7.9,1,4,1,0.6,0.7,24,delayed,431894
+STU0095,MBA,3,8.36,3,4,0,0.7,0.45,3,placed_3m,943602
+STU0096,Data Science,2,7.6,1,4,0,0.85,0.7,12,placed_12m,1145966
+STU0097,MBA,2,7.36,1,0,1,0.7,0.7,6,placed_6m,899636
+STU0098,Engineering,3,6.23,3,3,0,0.75,0.45,6,placed_6m,651651
+STU0099,Engineering,2,6.42,3,2,1,0.75,0.7,6,placed_6m,738148
+STU0100,Engineering,3,8.51,2,3,1,0.75,0.45,6,placed_6m,813624
+STU0101,Data Science,2,8.78,2,0,0,0.85,0.7,3,placed_3m,1226476
+STU0102,MBA,1,6.94,0,2,1,0.7,1.0,24,delayed,893029
+STU0103,Data Science,3,7.25,2,2,1,0.85,0.45,6,placed_6m,1093269
+STU0104,Arts,3,6.2,1,1,1,0.35,0.45,24,delayed,321657
+STU0105,Engineering,2,8.49,0,3,1,0.75,0.7,6,placed_6m,772831
+STU0106,MBA,3,7.93,0,3,0,0.7,0.45,6,placed_6m,877079
+STU0107,Nursing,3,9.34,1,1,1,0.6,0.45,12,placed_12m,494224
+STU0108,Engineering,2,6.23,1,4,1,0.75,0.7,12,placed_12m,614096
+STU0109,Engineering,3,6.78,1,0,0,0.75,0.45,12,placed_12m,580417
+STU0110,Engineering,1,7.45,0,3,1,0.75,1.0,3,placed_3m,737428
+STU0111,Engineering,2,7.91,1,1,1,0.75,0.7,6,placed_6m,727130
+STU0112,Arts,1,6.96,1,2,0,0.35,1.0,6,placed_6m,329128
+STU0113,Law,3,6.24,1,1,0,0.45,0.45,12,placed_12m,563194
+STU0114,Data Science,3,8.17,1,4,1,0.85,0.45,12,placed_12m,907003
+STU0115,Law,1,7.99,2,0,0,0.45,1.0,3,placed_3m,633648
+STU0116,Law,2,6.19,3,4,1,0.45,0.7,6,placed_6m,574154
+STU0117,Engineering,2,8.69,2,2,0,0.75,0.7,6,placed_6m,688687
+STU0118,Law,1,8.49,1,2,1,0.45,1.0,6,placed_6m,707386
+STU0119,Data Science,3,7.35,2,2,0,0.85,0.45,6,placed_6m,947535
+STU0120,Law,3,7.29,0,2,0,0.45,0.45,24,delayed,503655
+STU0121,Law,2,7.81,0,1,1,0.45,0.7,6,placed_6m,620305
+STU0122,MBA,3,6.25,1,2,1,0.7,0.45,12,placed_12m,834467
+STU0123,Engineering,2,7.23,2,2,1,0.75,0.7,6,placed_6m,670298
+STU0124,Engineering,3,4.83,0,1,1,0.75,0.45,6,placed_6m,614230
+STU0125,MBA,3,8.16,0,2,0,0.7,0.45,24,delayed,841040
+STU0126,Law,2,5.48,0,4,0,0.45,0.7,12,placed_12m,612880
+STU0127,Law,1,8.85,2,4,1,0.45,1.0,3,placed_3m,692709
+STU0128,Engineering,3,6.84,2,3,1,0.75,0.45,6,placed_6m,674826
+STU0129,Data Science,2,6.97,1,4,1,0.85,0.7,12,placed_12m,970354
+STU0130,MBA,1,6.51,1,0,0,0.7,1.0,6,placed_6m,852576
+STU0131,Engineering,1,6.88,1,0,1,0.75,1.0,3,placed_3m,693107
+STU0132,Engineering,2,8.76,2,0,0,0.75,0.7,3,placed_3m,838874
+STU0133,MBA,2,4.46,0,1,1,0.7,0.7,12,placed_12m,742206
+STU0134,Arts,3,8.6,2,4,1,0.35,0.45,6,placed_6m,355493
+STU0135,MBA,3,7.57,1,0,0,0.7,0.45,12,placed_12m,936048
+STU0136,Data Science,1,5.87,2,3,1,0.85,1.0,6,placed_6m,908193
+STU0137,Nursing,3,6.02,0,1,0,0.6,0.45,12,placed_12m,424903
+STU0138,MBA,1,9.04,1,3,1,0.7,1.0,3,placed_3m,1000287
+STU0139,Arts,3,6.16,1,4,0,0.35,0.45,6,placed_6m,309017
+STU0140,Arts,3,5.93,1,2,1,0.35,0.45,12,placed_12m,274015
+STU0141,Engineering,2,8.45,0,3,0,0.75,0.7,3,placed_3m,687535
+STU0142,MBA,3,7.57,2,2,1,0.7,0.45,12,placed_12m,899546
+STU0143,MBA,2,6.17,0,1,1,0.7,0.7,12,placed_12m,948136
+STU0144,Engineering,2,7.44,2,3,1,0.75,0.7,3,placed_3m,781557
+STU0145,Engineering,3,6.07,2,3,0,0.75,0.45,12,placed_12m,711895
+STU0146,Data Science,2,8.41,1,1,1,0.85,0.7,12,placed_12m,1083166
+STU0147,Data Science,2,8.37,2,1,0,0.85,0.7,6,placed_6m,1093073
+STU0148,Engineering,2,7.79,2,0,1,0.75,0.7,3,placed_3m,706327
+STU0149,Engineering,3,7.6,1,4,0,0.75,0.45,24,delayed,638497
+STU0150,Arts,2,9.14,2,3,1,0.35,0.7,6,placed_6m,318306
+STU0151,Engineering,1,7.2,1,3,0,0.75,1.0,12,placed_12m,696193
+STU0152,Engineering,3,5.9,1,1,0,0.75,0.45,24,delayed,584101
+STU0153,MBA,3,7.69,2,1,0,0.7,0.45,6,placed_6m,873644
+STU0154,Arts,1,9.49,1,4,1,0.35,1.0,6,placed_6m,379709
+STU0155,Engineering,2,6.08,1,1,0,0.75,0.7,6,placed_6m,686410
+STU0156,Data Science,1,6.8,1,2,1,0.85,1.0,3,placed_3m,1094407
+STU0157,Nursing,2,7.66,2,2,1,0.6,0.7,3,placed_3m,450986
+STU0158,Engineering,2,7.14,3,2,1,0.75,0.7,3,placed_3m,650229
+STU0159,Nursing,3,6.12,1,2,1,0.6,0.45,12,placed_12m,383147
+STU0160,MBA,3,8.43,2,4,0,0.7,0.45,3,placed_3m,858242
+STU0161,Data Science,2,9.75,3,3,1,0.85,0.7,3,placed_3m,1267773
+STU0162,Data Science,2,7.42,0,2,0,0.85,0.7,6,placed_6m,1098927
+STU0163,Data Science,3,6.21,0,1,1,0.85,0.45,6,placed_6m,1001575
+STU0164,Engineering,2,5.5,2,2,0,0.75,0.7,12,placed_12m,700218
+STU0165,Law,3,7.48,2,4,1,0.45,0.45,12,placed_12m,572586
+STU0166,MBA,2,8.41,2,1,0,0.7,0.7,6,placed_6m,917342
+STU0167,Engineering,1,7.72,1,2,1,0.75,1.0,6,placed_6m,718319
+STU0168,Engineering,3,7.2,0,3,0,0.75,0.45,6,placed_6m,580060
+STU0169,Data Science,2,6.55,1,1,1,0.85,0.7,3,placed_3m,1101619
+STU0170,Data Science,3,6.0,0,1,0,0.85,0.45,12,placed_12m,900858
+STU0171,Engineering,1,8.12,1,3,1,0.75,1.0,6,placed_6m,706222
+STU0172,Data Science,1,8.21,2,1,1,0.85,1.0,6,placed_6m,1123474
+STU0173,Engineering,3,5.5,0,2,1,0.75,0.45,12,placed_12m,552376
+STU0174,Data Science,2,8.95,2,1,1,0.85,0.7,6,placed_6m,1165544
+STU0175,Engineering,3,7.83,1,2,1,0.75,0.45,12,placed_12m,735182
+STU0176,Data Science,2,8.74,1,3,1,0.85,0.7,3,placed_3m,1103599
+STU0177,MBA,2,5.72,0,0,1,0.7,0.7,6,placed_6m,662610
+STU0178,Arts,3,5.7,1,3,1,0.35,0.45,24,delayed,278062
+STU0179,Engineering,2,7.04,0,2,1,0.75,0.7,12,placed_12m,662586
+STU0180,MBA,2,7.75,3,4,0,0.7,0.7,3,placed_3m,940057
+STU0181,Engineering,2,9.18,2,3,1,0.75,0.7,3,placed_3m,755411
+STU0182,Arts,1,7.98,1,4,1,0.35,1.0,12,placed_12m,356877
+STU0183,Law,2,6.93,0,4,0,0.45,0.7,24,delayed,545971
+STU0184,Engineering,3,6.07,3,2,1,0.75,0.45,6,placed_6m,677437
+STU0185,Data Science,3,8.55,1,2,0,0.85,0.45,6,placed_6m,1099345
+STU0186,Law,3,6.14,0,0,0,0.45,0.45,24,delayed,481277
+STU0187,Data Science,3,8.99,1,1,1,0.85,0.45,6,placed_6m,1054325
+STU0188,Data Science,3,6.89,3,3,1,0.85,0.45,3,placed_3m,1159666
+STU0189,Engineering,3,8.95,0,2,1,0.75,0.45,6,placed_6m,731838
+STU0190,Engineering,2,7.95,0,3,1,0.75,0.7,12,placed_12m,737098
+STU0191,Law,3,7.05,3,4,1,0.45,0.45,3,placed_3m,642151
+STU0192,Arts,3,6.63,0,1,0,0.35,0.45,12,placed_12m,304782
+STU0193,Data Science,2,6.83,0,0,0,0.85,0.7,12,placed_12m,1062469
+STU0194,MBA,1,7.67,1,3,1,0.7,1.0,6,placed_6m,846032
+STU0195,MBA,2,7.28,2,1,0,0.7,0.7,6,placed_6m,918556
+STU0196,Nursing,2,6.55,1,0,1,0.6,0.7,24,delayed,412701
+STU0197,Law,3,7.02,3,3,1,0.45,0.45,6,placed_6m,656302
+STU0198,Law,2,7.29,2,1,0,0.45,0.7,6,placed_6m,641350
+STU0199,Nursing,2,4.86,0,2,1,0.6,0.7,24,delayed,354343
+STU0200,Data Science,3,7.7,3,3,1,0.85,0.45,6,placed_6m,1118270
+STU0201,Engineering,1,6.12,1,1,1,0.75,1.0,12,placed_12m,706717
+STU0202,Engineering,2,5.93,1,0,1,0.75,0.7,6,placed_6m,686247
+STU0203,Law,1,5.34,1,1,1,0.45,1.0,3,placed_3m,531385
+STU0204,Data Science,3,5.23,1,2,0,0.85,0.45,24,delayed,912123
+STU0205,Engineering,3,5.71,0,3,1,0.75,0.45,12,placed_12m,589318
+STU0206,Engineering,2,6.42,0,3,1,0.75,0.7,6,placed_6m,672659
+STU0207,Data Science,3,9.35,1,3,1,0.85,0.45,6,placed_6m,1053280
+STU0208,Engineering,2,6.62,2,2,1,0.75,0.7,6,placed_6m,677062
+STU0209,Engineering,3,7.4,1,0,1,0.75,0.45,24,delayed,712210
+STU0210,Data Science,3,7.64,3,3,0,0.85,0.45,3,placed_3m,1018487
+STU0211,Data Science,3,7.34,1,0,1,0.85,0.45,12,placed_12m,933589
+STU0212,Data Science,1,7.11,1,1,1,0.85,1.0,3,placed_3m,1105827
+STU0213,Engineering,3,5.89,0,0,0,0.75,0.45,6,placed_6m,576004
+STU0214,Nursing,3,8.8,0,0,0,0.6,0.45,12,placed_12m,411919
+STU0215,Engineering,2,9.19,1,3,1,0.75,0.7,6,placed_6m,767181
+STU0216,MBA,3,5.35,2,4,1,0.7,0.45,6,placed_6m,705911
+STU0217,Nursing,2,6.07,3,4,1,0.6,0.7,6,placed_6m,418205
+STU0218,Data Science,3,6.89,3,2,1,0.85,0.45,3,placed_3m,1208419
+STU0219,Law,1,6.14,0,2,1,0.45,1.0,6,placed_6m,590604
+STU0220,Data Science,3,7.76,3,4,1,0.85,0.45,3,placed_3m,1045667
+STU0221,Data Science,2,6.4,1,1,1,0.85,0.7,3,placed_3m,1053437
+STU0222,Engineering,1,9.58,0,3,0,0.75,1.0,6,placed_6m,817178
+STU0223,MBA,2,8.51,2,3,1,0.7,0.7,6,placed_6m,1011899
+STU0224,Engineering,1,7.43,2,1,1,0.75,1.0,3,placed_3m,763161
+STU0225,Engineering,2,8.33,0,1,1,0.75,0.7,12,placed_12m,755762
+STU0226,Arts,2,8.42,1,4,1,0.35,0.7,6,placed_6m,299202
+STU0227,MBA,2,6.58,1,2,1,0.7,0.7,6,placed_6m,791483
+STU0228,Law,2,6.3,2,1,0,0.45,0.7,6,placed_6m,586192
+STU0229,Data Science,2,7.29,1,2,0,0.85,0.7,3,placed_3m,1086976
+STU0230,Nursing,3,8.15,3,0,0,0.6,0.45,6,placed_6m,441540
+STU0231,Data Science,1,7.35,0,3,0,0.85,1.0,3,placed_3m,1108936
+STU0232,Data Science,3,5.47,1,4,1,0.85,0.45,6,placed_6m,885772
+STU0233,MBA,3,6.32,1,3,0,0.7,0.45,12,placed_12m,781515
+STU0234,Engineering,3,7.12,1,4,0,0.75,0.45,12,placed_12m,711748
+STU0235,Nursing,2,7.12,1,0,1,0.6,0.7,3,placed_3m,473341
+STU0236,Engineering,3,9.37,2,3,1,0.75,0.45,12,placed_12m,702234
+STU0237,Engineering,1,5.68,2,0,0,0.75,1.0,6,placed_6m,662014
+STU0238,Data Science,1,7.76,3,4,1,0.85,1.0,3,placed_3m,1168797
+STU0239,Engineering,2,8.84,2,1,1,0.75,0.7,6,placed_6m,770356
+STU0240,Arts,3,9.7,2,3,0,0.35,0.45,6,placed_6m,343410
+STU0241,Arts,1,6.76,1,0,0,0.35,1.0,6,placed_6m,361716
+STU0242,Arts,2,7.74,2,3,1,0.35,0.7,6,placed_6m,352516
+STU0243,MBA,3,7.83,1,3,1,0.7,0.45,3,placed_3m,893180
+STU0244,Engineering,3,7.42,1,3,1,0.75,0.45,24,delayed,595657
+STU0245,Arts,2,7.09,1,2,0,0.35,0.7,12,placed_12m,348958
+STU0246,MBA,1,7.68,1,0,1,0.7,1.0,12,placed_12m,762523
+STU0247,Arts,3,4.41,1,0,1,0.35,0.45,24,delayed,283019
+STU0248,Arts,2,7.95,3,3,0,0.35,0.7,6,placed_6m,377932
+STU0249,Law,1,7.34,1,1,1,0.45,1.0,6,placed_6m,601590
+STU0250,Engineering,1,6.96,0,3,1,0.75,1.0,12,placed_12m,764758
+STU0251,MBA,3,9.45,1,2,0,0.7,0.45,6,placed_6m,921272
+STU0252,Law,3,6.46,0,4,1,0.45,0.45,24,delayed,508936
+STU0253,MBA,3,6.76,0,2,1,0.7,0.45,24,delayed,791244
+STU0254,Engineering,3,9.39,0,1,0,0.75,0.45,6,placed_6m,871176
+STU0255,Data Science,2,6.28,1,3,1,0.85,0.7,3,placed_3m,1114987
+STU0256,Arts,2,6.59,1,0,0,0.35,0.7,6,placed_6m,335066
+STU0257,Data Science,2,7.04,2,3,1,0.85,0.7,6,placed_6m,1010750
+STU0258,Data Science,2,8.12,2,1,0,0.85,0.7,3,placed_3m,1141329
+STU0259,Engineering,2,7.43,1,0,0,0.75,0.7,6,placed_6m,670327
+STU0260,Data Science,3,5.78,1,2,1,0.85,0.45,6,placed_6m,1003957
+STU0261,Arts,2,6.61,1,4,1,0.35,0.7,12,placed_12m,319284
+STU0262,Engineering,3,6.53,2,4,1,0.75,0.45,3,placed_3m,622230
+STU0263,Data Science,2,7.12,0,3,0,0.85,0.7,12,placed_12m,1014518
+STU0264,Law,2,7.67,0,2,0,0.45,0.7,12,placed_12m,540234
+STU0265,Nursing,2,7.66,2,1,1,0.6,0.7,6,placed_6m,470920
+STU0266,Data Science,2,5.25,1,4,1,0.85,0.7,6,placed_6m,903983
+STU0267,Nursing,3,8.37,0,2,0,0.6,0.45,12,placed_12m,431571
+STU0268,MBA,2,7.48,0,3,1,0.7,0.7,3,placed_3m,913259
+STU0269,Engineering,2,8.72,3,0,1,0.75,0.7,3,placed_3m,789393
+STU0270,Law,1,7.69,2,3,1,0.45,1.0,3,placed_3m,631788
+STU0271,Law,2,8.41,2,3,1,0.45,0.7,12,placed_12m,634250
+STU0272,Law,2,7.71,1,2,0,0.45,0.7,6,placed_6m,626133
+STU0273,Arts,3,8.68,1,4,1,0.35,0.45,12,placed_12m,306264
+STU0274,Data Science,3,7.77,3,2,0,0.85,0.45,6,placed_6m,1113368
+STU0275,Data Science,2,7.09,3,0,1,0.85,0.7,6,placed_6m,1203766
+STU0276,Nursing,3,9.7,0,2,1,0.6,0.45,12,placed_12m,473433
+STU0277,Data Science,2,8.18,2,1,1,0.85,0.7,3,placed_3m,1137540
+STU0278,Nursing,2,7.83,0,3,1,0.6,0.7,12,placed_12m,458939
+STU0279,Nursing,1,5.8,0,4,1,0.6,1.0,12,placed_12m,437381
+STU0280,Law,2,5.78,2,0,1,0.45,0.7,6,placed_6m,596798
+STU0281,MBA,2,7.52,1,3,1,0.7,0.7,3,placed_3m,773451
+STU0282,MBA,2,7.36,3,2,1,0.7,0.7,6,placed_6m,840920
+STU0283,Engineering,1,6.52,0,1,1,0.75,1.0,12,placed_12m,738965
+STU0284,Data Science,1,7.36,1,2,0,0.85,1.0,6,placed_6m,1006348
+STU0285,Engineering,2,8.95,3,3,0,0.75,0.7,3,placed_3m,817948
+STU0286,MBA,3,7.96,3,0,0,0.7,0.45,3,placed_3m,902874
+STU0287,Data Science,2,5.94,0,4,1,0.85,0.7,6,placed_6m,895544
+STU0288,Engineering,2,7.08,1,3,1,0.75,0.7,3,placed_3m,719353
+STU0289,Data Science,1,6.31,2,0,1,0.85,1.0,12,placed_12m,1101128
+STU0290,Engineering,2,6.77,0,3,1,0.75,0.7,12,placed_12m,763502
+STU0291,Engineering,2,6.75,3,1,1,0.75,0.7,3,placed_3m,702609
+STU0292,Law,2,6.67,3,2,0,0.45,0.7,6,placed_6m,663219
+STU0293,MBA,2,5.82,0,4,0,0.7,0.7,6,placed_6m,822496
+STU0294,Engineering,1,7.06,0,0,1,0.75,1.0,12,placed_12m,675058
+STU0295,Data Science,1,6.58,0,4,0,0.85,1.0,12,placed_12m,1096295
+STU0296,Nursing,2,4.0,3,4,1,0.6,0.7,3,placed_3m,429023
+STU0297,Engineering,1,9.46,0,4,1,0.75,1.0,3,placed_3m,791718
+STU0298,Data Science,1,8.4,1,0,1,0.85,1.0,3,placed_3m,1186442
+STU0299,Engineering,2,6.79,1,0,1,0.75,0.7,3,placed_3m,665176
+STU0300,Engineering,3,7.22,1,4,1,0.75,0.45,24,delayed,610983
+STU0301,Data Science,2,5.91,0,2,0,0.85,0.7,24,delayed,986682
+STU0302,Data Science,2,9.07,0,3,1,0.85,0.7,6,placed_6m,1091564
+STU0303,Data Science,2,9.29,3,4,1,0.85,0.7,3,placed_3m,1207524
+STU0304,Nursing,3,7.37,3,1,0,0.6,0.45,6,placed_6m,463031
+STU0305,Arts,2,8.33,2,4,0,0.35,0.7,3,placed_3m,360621
+STU0306,Data Science,1,7.39,0,0,1,0.85,1.0,6,placed_6m,983515
+STU0307,MBA,2,5.73,1,3,0,0.7,0.7,6,placed_6m,900160
+STU0308,Nursing,1,6.75,2,1,0,0.6,1.0,3,placed_3m,477835
+STU0309,Engineering,2,7.35,1,3,1,0.75,0.7,6,placed_6m,697126
+STU0310,MBA,2,6.7,3,3,1,0.7,0.7,3,placed_3m,939913
+STU0311,Engineering,3,6.96,2,1,0,0.75,0.45,3,placed_3m,700388
+STU0312,Engineering,2,7.1,0,4,0,0.75,0.7,6,placed_6m,716302
+STU0313,Arts,3,7.11,3,4,1,0.35,0.45,12,placed_12m,339805
+STU0314,Law,3,7.26,3,4,0,0.45,0.45,12,placed_12m,617650
+STU0315,Data Science,1,6.03,0,2,1,0.85,1.0,6,placed_6m,1122521
+STU0316,MBA,2,6.41,1,4,1,0.7,0.7,6,placed_6m,901565
+STU0317,Engineering,2,5.79,1,1,0,0.75,0.7,6,placed_6m,652405
+STU0318,Engineering,2,8.28,1,2,0,0.75,0.7,6,placed_6m,680868
+STU0319,Engineering,2,4.88,0,4,0,0.75,0.7,12,placed_12m,685567
+STU0320,Data Science,3,8.47,1,2,0,0.85,0.45,24,delayed,1014986
+STU0321,Nursing,3,8.72,3,1,0,0.6,0.45,12,placed_12m,461092
+STU0322,Data Science,2,6.87,1,4,1,0.85,0.7,3,placed_3m,919372
+STU0323,Engineering,2,4.34,0,0,0,0.75,0.7,12,placed_12m,605343
+STU0324,Arts,3,6.8,2,1,1,0.35,0.45,12,placed_12m,317437
+STU0325,Nursing,3,7.13,1,3,1,0.6,0.45,24,delayed,364265
+STU0326,Data Science,3,6.09,2,3,0,0.85,0.45,3,placed_3m,1026986
+STU0327,Data Science,1,6.63,1,1,0,0.85,1.0,12,placed_12m,1035126
+STU0328,MBA,2,8.88,0,3,0,0.7,0.7,6,placed_6m,1077664
+STU0329,Engineering,1,7.93,0,1,0,0.75,1.0,12,placed_12m,705613
+STU0330,MBA,2,6.18,2,0,1,0.7,0.7,6,placed_6m,838875
+STU0331,Nursing,1,5.44,1,1,0,0.6,1.0,12,placed_12m,402983
+STU0332,Engineering,2,6.84,2,4,1,0.75,0.7,6,placed_6m,773046
+STU0333,Engineering,3,6.97,0,4,1,0.75,0.45,6,placed_6m,627562
+STU0334,Engineering,1,7.75,1,2,1,0.75,1.0,12,placed_12m,712578
+STU0335,Engineering,2,6.61,1,3,1,0.75,0.7,12,placed_12m,711268
+STU0336,Law,2,7.76,3,3,1,0.45,0.7,3,placed_3m,580727
+STU0337,Nursing,2,9.33,3,1,0,0.6,0.7,3,placed_3m,532073
+STU0338,MBA,1,8.1,0,3,0,0.7,1.0,6,placed_6m,1038648
+STU0339,Engineering,2,7.15,1,4,1,0.75,0.7,24,delayed,705610
+STU0340,MBA,3,7.0,0,0,0,0.7,0.45,6,placed_6m,846343
+STU0341,MBA,1,6.81,1,1,1,0.7,1.0,6,placed_6m,960615
+STU0342,Engineering,1,8.5,1,3,1,0.75,1.0,3,placed_3m,863277
+STU0343,MBA,2,6.51,3,4,1,0.7,0.7,3,placed_3m,979529
+STU0344,MBA,3,7.25,3,2,1,0.7,0.45,6,placed_6m,918870
+STU0345,Data Science,3,7.26,1,3,1,0.85,0.45,12,placed_12m,1065114
+STU0346,Data Science,3,6.65,1,0,1,0.85,0.45,12,placed_12m,908874
+STU0347,Engineering,2,5.69,3,0,1,0.75,0.7,6,placed_6m,734470
+STU0348,MBA,2,7.56,2,3,1,0.7,0.7,3,placed_3m,860801
+STU0349,Data Science,1,7.13,0,3,1,0.85,1.0,6,placed_6m,1048304
+STU0350,Data Science,2,7.75,1,4,1,0.85,0.7,6,placed_6m,856567
+STU0351,Law,3,6.61,1,3,1,0.45,0.45,24,delayed,543049
+STU0352,Data Science,2,8.54,0,2,1,0.85,0.7,3,placed_3m,1043446
+STU0353,Engineering,3,6.24,0,4,1,0.75,0.45,12,placed_12m,669401
+STU0354,Engineering,3,9.08,0,1,1,0.75,0.45,6,placed_6m,727726
+STU0355,Data Science,1,5.28,2,2,0,0.85,1.0,6,placed_6m,1132176
+STU0356,Engineering,3,7.68,1,4,1,0.75,0.45,12,placed_12m,627334
+STU0357,Data Science,1,7.72,0,4,0,0.85,1.0,6,placed_6m,1176047
+STU0358,Arts,2,6.32,0,0,1,0.35,0.7,6,placed_6m,353419
+STU0359,Data Science,1,7.67,2,4,1,0.85,1.0,3,placed_3m,1219401
+STU0360,MBA,1,8.61,2,2,1,0.7,1.0,6,placed_6m,1048326
+STU0361,Data Science,2,4.76,1,3,0,0.85,0.7,6,placed_6m,956228
+STU0362,MBA,2,7.75,1,2,1,0.7,0.7,12,placed_12m,858008
+STU0363,Data Science,2,4.46,3,1,1,0.85,0.7,6,placed_6m,1045138
+STU0364,Arts,2,6.14,0,4,0,0.35,0.7,12,placed_12m,266392
+STU0365,MBA,1,8.99,0,4,0,0.7,1.0,12,placed_12m,930887
+STU0366,Arts,1,6.56,1,4,1,0.35,1.0,12,placed_12m,292502
+STU0367,Arts,2,5.91,0,4,1,0.35,0.7,6,placed_6m,284660
+STU0368,Engineering,2,6.98,1,0,0,0.75,0.7,3,placed_3m,730536
+STU0369,Engineering,3,9.47,3,0,1,0.75,0.45,3,placed_3m,808749
+STU0370,Engineering,3,5.19,2,3,1,0.75,0.45,12,placed_12m,626998
+STU0371,Engineering,3,6.04,1,4,1,0.75,0.45,12,placed_12m,638486
+STU0372,Engineering,3,8.85,3,1,1,0.75,0.45,12,placed_12m,663893
+STU0373,Data Science,2,9.24,0,3,1,0.85,0.7,6,placed_6m,1088881
+STU0374,Engineering,3,7.09,0,4,1,0.75,0.45,12,placed_12m,608881
+STU0375,MBA,2,5.84,1,0,1,0.7,0.7,12,placed_12m,778095
+STU0376,Law,2,9.51,2,1,0,0.45,0.7,6,placed_6m,683702
+STU0377,Engineering,3,8.95,0,3,0,0.75,0.45,6,placed_6m,663812
+STU0378,Law,2,7.95,1,1,1,0.45,0.7,3,placed_3m,583025
+STU0379,Engineering,3,6.31,2,4,1,0.75,0.45,6,placed_6m,565511
+STU0380,Engineering,3,7.15,2,2,1,0.75,0.45,6,placed_6m,676764
+STU0381,Data Science,3,7.02,2,1,1,0.85,0.45,6,placed_6m,952487
+STU0382,Data Science,3,7.56,1,1,1,0.85,0.45,6,placed_6m,1030829
+STU0383,Law,2,8.8,0,0,1,0.45,0.7,12,placed_12m,564358
+STU0384,Nursing,2,8.17,1,4,0,0.6,0.7,12,placed_12m,461724
+STU0385,Law,2,6.01,0,1,1,0.45,0.7,12,placed_12m,527084
+STU0386,Engineering,2,8.71,3,4,0,0.75,0.7,6,placed_6m,868182
+STU0387,Engineering,2,7.54,1,0,1,0.75,0.7,12,placed_12m,729199
+STU0388,Nursing,3,7.96,1,4,0,0.6,0.45,3,placed_3m,386726
+STU0389,Law,3,8.81,2,0,1,0.45,0.45,6,placed_6m,566817
+STU0390,Arts,2,5.98,1,0,0,0.35,0.7,24,delayed,301451
+STU0391,MBA,1,7.16,1,3,0,0.7,1.0,6,placed_6m,865856
+STU0392,MBA,2,6.62,2,4,0,0.7,0.7,6,placed_6m,703100
+STU0393,Nursing,1,5.48,2,2,1,0.6,1.0,3,placed_3m,491016
+STU0394,MBA,3,7.58,2,3,1,0.7,0.45,12,placed_12m,913765
+STU0395,Arts,2,9.96,0,0,1,0.35,0.7,6,placed_6m,368847
+STU0396,Law,1,5.18,1,2,1,0.45,1.0,6,placed_6m,540521
+STU0397,MBA,1,7.16,2,1,1,0.7,1.0,6,placed_6m,972454
+STU0398,Nursing,2,7.9,0,1,1,0.6,0.7,6,placed_6m,424224
+STU0399,Nursing,2,7.34,0,3,1,0.6,0.7,12,placed_12m,436299
+STU0400,Engineering,2,7.08,3,2,0,0.75,0.7,6,placed_6m,694578
+STU0401,Arts,1,5.77,0,4,0,0.35,1.0,12,placed_12m,345756
+STU0402,Data Science,2,7.46,2,2,1,0.85,0.7,6,placed_6m,982215
+STU0403,Law,2,6.37,1,3,1,0.45,0.7,12,placed_12m,607647
+STU0404,MBA,3,4.79,1,4,1,0.7,0.45,12,placed_12m,743250
+STU0405,Law,2,8.51,0,4,1,0.45,0.7,24,delayed,563272
+STU0406,MBA,2,8.25,2,1,0,0.7,0.7,3,placed_3m,957366
+STU0407,Engineering,2,7.26,1,2,1,0.75,0.7,6,placed_6m,739405
+STU0408,Arts,3,7.45,1,4,1,0.35,0.45,6,placed_6m,347976
+STU0409,Engineering,2,8.38,2,3,1,0.75,0.7,3,placed_3m,776733
+STU0410,MBA,3,7.45,2,1,1,0.7,0.45,6,placed_6m,821437
+STU0411,Arts,1,8.19,3,4,1,0.35,1.0,6,placed_6m,378467
+STU0412,Arts,2,6.87,1,2,1,0.35,0.7,6,placed_6m,363948
+STU0413,Data Science,1,8.64,1,1,0,0.85,1.0,6,placed_6m,1269726
+STU0414,Data Science,2,7.55,3,2,0,0.85,0.7,6,placed_6m,1195059
+STU0415,MBA,3,7.41,2,2,1,0.7,0.45,3,placed_3m,926058
+STU0416,Engineering,2,5.8,1,2,1,0.75,0.7,3,placed_3m,697911
+STU0417,MBA,1,7.52,0,1,0,0.7,1.0,12,placed_12m,970112
+STU0418,Data Science,1,6.28,2,4,1,0.85,1.0,3,placed_3m,1069315
+STU0419,Nursing,2,6.5,1,0,1,0.6,0.7,3,placed_3m,392756
+STU0420,Nursing,1,6.3,2,4,1,0.6,1.0,3,placed_3m,467814
+STU0421,Nursing,1,6.03,1,1,0,0.6,1.0,6,placed_6m,420577
+STU0422,Engineering,3,9.54,0,0,1,0.75,0.45,6,placed_6m,671976
+STU0423,MBA,2,8.66,2,0,1,0.7,0.7,6,placed_6m,914826
+STU0424,Engineering,2,9.31,0,0,1,0.75,0.7,12,placed_12m,857667
+STU0425,Data Science,3,5.85,1,3,1,0.85,0.45,6,placed_6m,958017
+STU0426,MBA,1,7.28,1,1,0,0.7,1.0,3,placed_3m,952466
+STU0427,Law,3,5.78,1,3,1,0.45,0.45,24,delayed,457200
+STU0428,MBA,2,6.43,2,0,0,0.7,0.7,6,placed_6m,763802
+STU0429,Engineering,3,6.19,2,3,0,0.75,0.45,12,placed_12m,615387
+STU0430,Engineering,2,8.56,2,3,1,0.75,0.7,12,placed_12m,824939
+STU0431,Nursing,3,6.76,0,1,1,0.6,0.45,6,placed_6m,415130
+STU0432,Data Science,3,8.38,0,2,1,0.85,0.45,6,placed_6m,1074733
+STU0433,Engineering,2,7.86,1,3,0,0.75,0.7,3,placed_3m,761637
+STU0434,Engineering,3,9.73,3,3,1,0.75,0.45,3,placed_3m,763885
+STU0435,Nursing,2,5.57,2,0,1,0.6,0.7,3,placed_3m,471232
+STU0436,Engineering,2,8.59,2,0,1,0.75,0.7,3,placed_3m,737429
+STU0437,Law,2,8.46,1,0,1,0.45,0.7,6,placed_6m,673193
+STU0438,Nursing,2,6.13,1,4,1,0.6,0.7,6,placed_6m,438019
+STU0439,Engineering,1,8.31,1,3,1,0.75,1.0,6,placed_6m,685861
+STU0440,Engineering,2,7.57,0,0,0,0.75,0.7,12,placed_12m,650188
+STU0441,Arts,2,6.95,0,1,0,0.35,0.7,6,placed_6m,275014
+STU0442,MBA,3,6.29,3,4,0,0.7,0.45,6,placed_6m,926434
+STU0443,MBA,3,6.41,0,2,1,0.7,0.45,24,delayed,756352
+STU0444,Law,2,9.45,0,3,1,0.45,0.7,6,placed_6m,535986
+STU0445,Arts,2,7.2,0,3,1,0.35,0.7,6,placed_6m,326927
+STU0446,Arts,2,8.06,3,1,0,0.35,0.7,6,placed_6m,346512
+STU0447,Nursing,1,6.33,1,2,0,0.6,1.0,6,placed_6m,406079
+STU0448,MBA,1,6.34,2,2,0,0.7,1.0,3,placed_3m,1021321
+STU0449,Engineering,2,8.39,3,4,0,0.75,0.7,3,placed_3m,787105
+STU0450,Nursing,2,5.72,1,3,1,0.6,0.7,6,placed_6m,407790
+STU0451,Data Science,3,6.74,2,0,1,0.85,0.45,12,placed_12m,978188
+STU0452,MBA,2,7.24,0,1,1,0.7,0.7,3,placed_3m,768419
+STU0453,Arts,2,7.32,0,1,1,0.35,0.7,24,delayed,280493
+STU0454,Engineering,2,7.0,2,1,1,0.75,0.7,3,placed_3m,782015
+STU0455,MBA,1,7.64,2,1,1,0.7,1.0,6,placed_6m,936019
+STU0456,Engineering,2,7.96,1,0,0,0.75,0.7,6,placed_6m,726423
+STU0457,MBA,2,8.01,1,0,1,0.7,0.7,6,placed_6m,785768
+STU0458,Engineering,2,6.12,1,4,1,0.75,0.7,6,placed_6m,606700
+STU0459,Engineering,2,6.89,0,3,1,0.75,0.7,12,placed_12m,694893
+STU0460,Engineering,3,8.51,0,0,0,0.75,0.45,12,placed_12m,702557
+STU0461,Data Science,3,8.18,0,4,0,0.85,0.45,12,placed_12m,1138028
+STU0462,Nursing,2,5.69,1,2,0,0.6,0.7,3,placed_3m,459424
+STU0463,Data Science,2,7.59,2,3,1,0.85,0.7,6,placed_6m,1084537
+STU0464,Arts,2,5.02,1,0,1,0.35,0.7,24,delayed,297462
+STU0465,MBA,2,7.25,0,2,1,0.7,0.7,6,placed_6m,836064
+STU0466,Engineering,2,9.29,1,4,1,0.75,0.7,6,placed_6m,863757
+STU0467,Law,1,6.16,2,0,0,0.45,1.0,6,placed_6m,651976
+STU0468,Engineering,2,6.28,0,0,1,0.75,0.7,6,placed_6m,663112
+STU0469,Arts,2,8.04,0,2,1,0.35,0.7,24,delayed,324254
+STU0470,Engineering,2,5.5,1,0,1,0.75,0.7,6,placed_6m,720940
+STU0471,Arts,3,6.5,2,1,1,0.35,0.45,3,placed_3m,328154
+STU0472,Engineering,3,7.86,1,0,0,0.75,0.45,24,delayed,744496
+STU0473,Law,3,6.5,2,3,0,0.45,0.45,3,placed_3m,475019
+STU0474,Data Science,2,6.94,3,2,1,0.85,0.7,6,placed_6m,1135277
+STU0475,Arts,3,8.02,2,3,1,0.35,0.45,12,placed_12m,319581
+STU0476,Engineering,1,7.66,2,4,1,0.75,1.0,3,placed_3m,860467
+STU0477,Data Science,3,7.49,1,3,1,0.85,0.45,6,placed_6m,1133298
+STU0478,Arts,1,6.83,0,1,1,0.35,1.0,12,placed_12m,327313
+STU0479,Data Science,3,7.61,3,1,1,0.85,0.45,3,placed_3m,1203258
+STU0480,Data Science,2,7.06,1,3,1,0.85,0.7,3,placed_3m,1181634
+STU0481,Data Science,3,7.7,0,4,1,0.85,0.45,24,delayed,973018
+STU0482,MBA,3,6.65,2,0,0,0.7,0.45,3,placed_3m,998130
+STU0483,Data Science,1,7.0,1,1,1,0.85,1.0,6,placed_6m,1096456
+STU0484,Data Science,2,6.11,1,3,1,0.85,0.7,12,placed_12m,978051
+STU0485,Arts,3,7.16,1,3,1,0.35,0.45,6,placed_6m,332689
+STU0486,Engineering,2,6.31,1,3,1,0.75,0.7,12,placed_12m,651255
+STU0487,Engineering,3,5.97,2,0,1,0.75,0.45,3,placed_3m,663582
+STU0488,Arts,2,7.48,1,2,1,0.35,0.7,12,placed_12m,359888
+STU0489,Law,2,7.43,1,4,0,0.45,0.7,12,placed_12m,585785
+STU0490,MBA,2,8.06,1,2,1,0.7,0.7,6,placed_6m,808717
+STU0491,Data Science,2,6.73,2,4,1,0.85,0.7,3,placed_3m,1094481
+STU0492,Engineering,3,7.65,2,4,1,0.75,0.45,6,placed_6m,672543
+STU0493,Engineering,2,7.81,1,3,0,0.75,0.7,3,placed_3m,765959
+STU0494,MBA,2,7.69,2,1,0,0.7,0.7,12,placed_12m,953868
+STU0495,MBA,2,6.29,0,3,0,0.7,0.7,24,delayed,879225
+STU0496,Data Science,2,7.36,3,0,1,0.85,0.7,3,placed_3m,1192110
+STU0497,Engineering,3,7.6,1,4,0,0.75,0.45,6,placed_6m,736848
+STU0498,Arts,3,7.21,2,1,1,0.35,0.45,6,placed_6m,308289
+STU0499,Arts,2,4.9,0,4,0,0.35,0.7,12,placed_12m,300877
+STU0500,Data Science,3,7.38,0,4,0,0.85,0.45,12,placed_12m,1117172
+STU0501,Data Science,3,9.63,1,3,0,0.85,0.45,6,placed_6m,1068687
+STU0502,MBA,2,6.8,2,1,0,0.7,0.7,3,placed_3m,1000945
+STU0503,Law,3,6.4,1,1,1,0.45,0.45,24,delayed,499670
+STU0504,Data Science,2,7.61,3,4,1,0.85,0.7,3,placed_3m,1076513
+STU0505,Engineering,1,7.54,1,1,1,0.75,1.0,6,placed_6m,763026
+STU0506,Arts,3,8.51,1,1,0,0.35,0.45,6,placed_6m,348237
+STU0507,Law,2,5.82,0,3,0,0.45,0.7,12,placed_12m,564378
+STU0508,Arts,3,8.0,2,2,1,0.35,0.45,12,placed_12m,309386
+STU0509,Nursing,3,7.85,0,0,1,0.6,0.45,3,placed_3m,441174
+STU0510,Data Science,1,7.04,3,2,0,0.85,1.0,6,placed_6m,1111353
+STU0511,MBA,3,7.57,3,1,1,0.7,0.45,12,placed_12m,805885
+STU0512,Arts,2,8.33,3,4,1,0.35,0.7,6,placed_6m,341549
+STU0513,Law,2,8.16,1,0,0,0.45,0.7,24,delayed,560619
+STU0514,Engineering,2,5.94,2,0,1,0.75,0.7,6,placed_6m,709816
+STU0515,Engineering,3,8.1,2,4,0,0.75,0.45,6,placed_6m,774871
+STU0516,MBA,1,7.13,0,0,1,0.7,1.0,24,delayed,778939
+STU0517,Law,2,7.28,2,4,0,0.45,0.7,3,placed_3m,621290
+STU0518,Arts,3,7.28,0,0,1,0.35,0.45,12,placed_12m,275769
+STU0519,Engineering,3,7.03,1,2,0,0.75,0.45,12,placed_12m,690238
+STU0520,Data Science,3,8.51,0,0,1,0.85,0.45,12,placed_12m,981652
+STU0521,MBA,1,7.11,0,3,0,0.7,1.0,6,placed_6m,831591
+STU0522,Arts,2,5.97,1,4,1,0.35,0.7,24,delayed,318004
+STU0523,Law,2,6.77,1,0,1,0.45,0.7,6,placed_6m,551117
+STU0524,Law,3,7.4,2,4,1,0.45,0.45,6,placed_6m,569358
+STU0525,MBA,2,8.55,0,3,1,0.7,0.7,6,placed_6m,770630
+STU0526,MBA,2,7.86,1,0,1,0.7,0.7,12,placed_12m,950420
+STU0527,Engineering,3,6.26,0,0,0,0.75,0.45,24,delayed,641335
+STU0528,Engineering,1,9.93,1,3,0,0.75,1.0,6,placed_6m,820773
+STU0529,Law,3,7.49,2,3,1,0.45,0.45,6,placed_6m,523261
+STU0530,Law,3,8.6,1,3,0,0.45,0.45,6,placed_6m,643864
+STU0531,Arts,3,7.03,2,4,1,0.35,0.45,6,placed_6m,305905
+STU0532,Arts,2,7.79,1,3,0,0.35,0.7,6,placed_6m,325891
+STU0533,Data Science,1,8.12,2,4,1,0.85,1.0,12,placed_12m,1334520
+STU0534,Nursing,3,8.54,1,2,1,0.6,0.45,3,placed_3m,432361
+STU0535,Arts,3,8.36,1,0,1,0.35,0.45,3,placed_3m,348492
+STU0536,Law,3,8.16,2,0,1,0.45,0.45,6,placed_6m,623552
+STU0537,Engineering,1,6.85,0,1,0,0.75,1.0,6,placed_6m,726830
+STU0538,MBA,3,6.57,2,2,1,0.7,0.45,12,placed_12m,849585
+STU0539,Engineering,3,7.57,2,3,0,0.75,0.45,3,placed_3m,725292
+STU0540,Arts,3,8.23,1,3,1,0.35,0.45,12,placed_12m,330794
+STU0541,Data Science,3,6.96,0,2,1,0.85,0.45,24,delayed,930237
+STU0542,Engineering,3,8.37,0,3,1,0.75,0.45,6,placed_6m,760192
+STU0543,Data Science,2,8.8,3,1,0,0.85,0.7,3,placed_3m,1096767
+STU0544,Data Science,1,6.19,2,4,0,0.85,1.0,6,placed_6m,1165937
+STU0545,MBA,2,6.28,0,0,0,0.7,0.7,12,placed_12m,858567
+STU0546,Engineering,1,7.05,1,2,0,0.75,1.0,3,placed_3m,771140
+STU0547,Data Science,2,7.54,1,0,0,0.85,0.7,12,placed_12m,1138149
+STU0548,Data Science,2,6.62,2,4,1,0.85,0.7,3,placed_3m,1056741
+STU0549,Nursing,1,8.69,0,2,0,0.6,1.0,3,placed_3m,428869
+STU0550,Data Science,2,7.67,0,4,1,0.85,0.7,3,placed_3m,1045161
+STU0551,Law,1,7.24,3,3,1,0.45,1.0,6,placed_6m,610187
+STU0552,Data Science,3,5.62,0,3,1,0.85,0.45,24,delayed,821228
+STU0553,Data Science,3,5.75,0,3,0,0.85,0.45,12,placed_12m,812912
+STU0554,Law,1,7.51,3,4,0,0.45,1.0,6,placed_6m,637383
+STU0555,MBA,3,4.85,2,4,1,0.7,0.45,12,placed_12m,732483
+STU0556,Engineering,2,8.31,1,4,0,0.75,0.7,3,placed_3m,625543
+STU0557,Engineering,2,7.03,0,0,1,0.75,0.7,12,placed_12m,703391
+STU0558,Nursing,1,10.0,0,4,0,0.6,1.0,6,placed_6m,575747
+STU0559,Data Science,2,9.74,0,3,1,0.85,0.7,24,delayed,1147890
+STU0560,Nursing,3,7.0,3,1,1,0.6,0.45,6,placed_6m,441288
+STU0561,Engineering,3,7.08,1,4,1,0.75,0.45,12,placed_12m,658863
+STU0562,Engineering,1,8.3,2,1,0,0.75,1.0,6,placed_6m,771146
+STU0563,Engineering,1,9.07,3,3,0,0.75,1.0,6,placed_6m,839026
+STU0564,MBA,2,5.4,1,4,1,0.7,0.7,6,placed_6m,808335
+STU0565,Data Science,2,5.23,0,0,1,0.85,0.7,12,placed_12m,863518
+STU0566,MBA,2,6.52,1,0,0,0.7,0.7,12,placed_12m,944064
+STU0567,MBA,2,7.84,3,1,0,0.7,0.7,3,placed_3m,867621
+STU0568,Arts,3,7.75,2,0,0,0.35,0.45,3,placed_3m,348659
+STU0569,MBA,3,8.38,0,0,1,0.7,0.45,6,placed_6m,853681
+STU0570,Data Science,2,5.88,2,0,0,0.85,0.7,3,placed_3m,1166849
+STU0571,Nursing,3,4.65,1,3,1,0.6,0.45,12,placed_12m,383121
+STU0572,MBA,2,8.14,3,0,1,0.7,0.7,3,placed_3m,946611
+STU0573,Data Science,2,6.29,0,2,1,0.85,0.7,12,placed_12m,953669
+STU0574,Law,2,4.98,1,4,1,0.45,0.7,12,placed_12m,525254
+STU0575,Arts,2,7.36,2,0,1,0.35,0.7,6,placed_6m,313802
+STU0576,Engineering,3,8.07,1,0,1,0.75,0.45,3,placed_3m,665615
+STU0577,Arts,2,7.07,1,0,0,0.35,0.7,6,placed_6m,285970
+STU0578,MBA,2,6.7,0,2,1,0.7,0.7,6,placed_6m,778860
+STU0579,Engineering,2,7.02,1,0,1,0.75,0.7,3,placed_3m,705498
+STU0580,MBA,1,6.79,1,0,1,0.7,1.0,12,placed_12m,916473
+STU0581,Arts,3,5.72,3,4,1,0.35,0.45,12,placed_12m,263903
+STU0582,MBA,2,6.41,1,2,0,0.7,0.7,6,placed_6m,840411
+STU0583,MBA,2,7.77,1,2,1,0.7,0.7,6,placed_6m,933432
+STU0584,Data Science,2,7.55,2,0,0,0.85,0.7,6,placed_6m,1087943
+STU0585,Engineering,2,7.38,0,2,1,0.75,0.7,6,placed_6m,657624
+STU0586,Engineering,1,6.11,1,1,0,0.75,1.0,12,placed_12m,678376
+STU0587,Engineering,3,7.0,2,2,1,0.75,0.45,3,placed_3m,664303
+STU0588,Engineering,2,4.81,2,2,0,0.75,0.7,6,placed_6m,620093
+STU0589,Engineering,3,7.4,2,2,1,0.75,0.45,6,placed_6m,706733
+STU0590,Engineering,3,8.77,2,3,1,0.75,0.45,3,placed_3m,854171
+STU0591,Data Science,3,5.58,0,3,0,0.85,0.45,12,placed_12m,840984
+STU0592,Engineering,2,6.56,3,3,1,0.75,0.7,3,placed_3m,711643
+STU0593,MBA,2,7.56,0,2,1,0.7,0.7,24,delayed,835473
+STU0594,Law,1,8.58,2,1,1,0.45,1.0,3,placed_3m,642167
+STU0595,MBA,3,6.71,1,2,0,0.7,0.45,24,delayed,859904
+STU0596,Data Science,2,6.44,3,0,1,0.85,0.7,6,placed_6m,908779
+STU0597,Engineering,2,5.03,2,1,1,0.75,0.7,6,placed_6m,632034
+STU0598,Engineering,2,7.31,2,3,1,0.75,0.7,6,placed_6m,765192
+STU0599,Engineering,1,9.45,0,4,1,0.75,1.0,6,placed_6m,771771
+STU0600,Engineering,2,7.51,1,1,1,0.75,0.7,12,placed_12m,664752
+STU0601,Engineering,1,7.18,2,3,0,0.75,1.0,3,placed_3m,782671
+STU0602,Engineering,3,7.55,2,1,0,0.75,0.45,12,placed_12m,739133
+STU0603,Engineering,2,7.19,0,1,0,0.75,0.7,12,placed_12m,684744
+STU0604,Engineering,1,6.31,3,2,0,0.75,1.0,6,placed_6m,713211
+STU0605,MBA,2,8.11,3,0,1,0.7,0.7,3,placed_3m,994144
+STU0606,Engineering,1,7.45,1,4,1,0.75,1.0,3,placed_3m,730401
+STU0607,MBA,2,7.22,2,3,0,0.7,0.7,12,placed_12m,939187
+STU0608,Data Science,3,6.13,1,1,1,0.85,0.45,6,placed_6m,1067264
+STU0609,Data Science,1,8.63,1,4,1,0.85,1.0,6,placed_6m,984672
+STU0610,Engineering,3,7.93,1,1,1,0.75,0.45,12,placed_12m,692266
+STU0611,Nursing,1,6.59,1,0,1,0.6,1.0,12,placed_12m,398644
+STU0612,Data Science,2,8.3,2,4,1,0.85,0.7,3,placed_3m,1314774
+STU0613,Engineering,3,6.65,1,3,0,0.75,0.45,12,placed_12m,626110
+STU0614,Law,2,6.34,2,1,0,0.45,0.7,3,placed_3m,613558
+STU0615,Arts,1,6.36,2,0,0,0.35,1.0,6,placed_6m,341476
+STU0616,Engineering,2,5.25,2,4,1,0.75,0.7,6,placed_6m,625506
+STU0617,Engineering,2,7.72,0,1,0,0.75,0.7,6,placed_6m,653802
+STU0618,Law,3,5.19,2,1,1,0.45,0.45,24,delayed,571404
+STU0619,Nursing,2,5.85,1,3,0,0.6,0.7,24,delayed,434052
+STU0620,Engineering,3,4.92,1,0,1,0.75,0.45,12,placed_12m,689797
+STU0621,Engineering,3,7.11,0,2,0,0.75,0.45,24,delayed,629821
+STU0622,MBA,2,7.03,1,1,0,0.7,0.7,12,placed_12m,879824
+STU0623,MBA,3,6.84,3,4,0,0.7,0.45,12,placed_12m,851742
+STU0624,Data Science,2,6.05,1,3,1,0.85,0.7,6,placed_6m,981472
+STU0625,MBA,3,5.91,2,3,0,0.7,0.45,6,placed_6m,754757
+STU0626,MBA,1,7.71,0,1,1,0.7,1.0,12,placed_12m,912945
+STU0627,Nursing,3,6.59,1,1,0,0.6,0.45,24,delayed,376167
+STU0628,Engineering,2,7.55,3,1,0,0.75,0.7,6,placed_6m,774151
+STU0629,Engineering,2,6.23,2,2,1,0.75,0.7,6,placed_6m,701447
+STU0630,Nursing,2,7.4,0,1,0,0.6,0.7,12,placed_12m,440029
+STU0631,Law,3,8.63,1,0,1,0.45,0.45,12,placed_12m,657012
+STU0632,Data Science,1,7.84,0,4,1,0.85,1.0,3,placed_3m,1109674
+STU0633,Data Science,1,6.75,1,1,0,0.85,1.0,6,placed_6m,1141819
+STU0634,Engineering,3,7.48,2,2,0,0.75,0.45,6,placed_6m,799460
+STU0635,MBA,3,6.94,2,4,0,0.7,0.45,3,placed_3m,938782
+STU0636,Data Science,3,7.21,0,3,1,0.85,0.45,3,placed_3m,1067793
+STU0637,Engineering,3,6.84,3,1,1,0.75,0.45,6,placed_6m,687033
+STU0638,Engineering,3,7.02,1,4,1,0.75,0.45,24,delayed,655599
+STU0639,MBA,3,7.43,1,3,1,0.7,0.45,12,placed_12m,760902
+STU0640,Engineering,2,6.11,1,2,0,0.75,0.7,12,placed_12m,686167
+STU0641,MBA,1,6.08,2,0,1,0.7,1.0,3,placed_3m,927375
+STU0642,Engineering,3,5.67,1,1,1,0.75,0.45,6,placed_6m,627800
+STU0643,MBA,2,5.44,1,0,1,0.7,0.7,12,placed_12m,864370
+STU0644,Engineering,1,5.86,1,2,1,0.75,1.0,12,placed_12m,632856
+STU0645,Law,2,7.38,0,4,1,0.45,0.7,12,placed_12m,632279
+STU0646,Data Science,3,6.22,2,4,0,0.85,0.45,6,placed_6m,1059484
+STU0647,Data Science,2,7.76,1,2,1,0.85,0.7,6,placed_6m,1074088
+STU0648,Nursing,2,7.24,0,2,1,0.6,0.7,6,placed_6m,428454
+STU0649,MBA,2,5.03,2,1,0,0.7,0.7,3,placed_3m,855448
+STU0650,Engineering,2,7.92,3,3,1,0.75,0.7,3,placed_3m,840865
+STU0651,Data Science,2,8.09,3,0,0,0.85,0.7,3,placed_3m,1166825
+STU0652,Data Science,2,6.11,1,0,1,0.85,0.7,6,placed_6m,1014924
+STU0653,Nursing,1,7.66,0,4,1,0.6,1.0,6,placed_6m,464382
+STU0654,MBA,3,6.26,1,4,0,0.7,0.45,6,placed_6m,912215
+STU0655,Engineering,2,7.31,0,1,1,0.75,0.7,12,placed_12m,660516
+STU0656,Engineering,3,5.81,3,2,1,0.75,0.45,6,placed_6m,669355
+STU0657,MBA,3,5.23,0,0,1,0.7,0.45,12,placed_12m,820090
+STU0658,Data Science,2,6.78,1,1,0,0.85,0.7,6,placed_6m,1045385
+STU0659,Data Science,3,7.06,1,4,0,0.85,0.45,6,placed_6m,1084493
+STU0660,MBA,2,6.76,1,4,0,0.7,0.7,12,placed_12m,797668
+STU0661,Arts,3,5.9,2,0,0,0.35,0.45,12,placed_12m,296834
+STU0662,Data Science,2,6.76,1,4,1,0.85,0.7,6,placed_6m,1140834
+STU0663,Engineering,3,7.5,0,4,1,0.75,0.45,12,placed_12m,621422
+STU0664,Engineering,2,7.15,1,3,1,0.75,0.7,12,placed_12m,686256
+STU0665,Engineering,2,7.4,1,2,1,0.75,0.7,3,placed_3m,724593
+STU0666,Engineering,1,6.46,0,4,1,0.75,1.0,6,placed_6m,648906
+STU0667,Engineering,3,8.49,2,3,1,0.75,0.45,12,placed_12m,703803
+STU0668,Engineering,3,5.91,1,1,1,0.75,0.45,24,delayed,616592
+STU0669,Engineering,2,7.74,2,4,1,0.75,0.7,3,placed_3m,744580
+STU0670,Engineering,2,8.5,3,1,1,0.75,0.7,6,placed_6m,842959
+STU0671,Law,2,7.73,3,4,0,0.45,0.7,3,placed_3m,696758
+STU0672,Engineering,3,6.98,3,0,0,0.75,0.45,12,placed_12m,657224
+STU0673,Data Science,1,6.62,0,3,1,0.85,1.0,6,placed_6m,1059610
+STU0674,MBA,3,8.34,0,3,1,0.7,0.45,12,placed_12m,889443
+STU0675,Arts,2,5.63,1,0,1,0.35,0.7,3,placed_3m,341635
+STU0676,Engineering,2,6.13,3,2,1,0.75,0.7,12,placed_12m,737473
+STU0677,MBA,1,6.76,3,3,0,0.7,1.0,6,placed_6m,974180
+STU0678,Arts,1,8.56,2,1,1,0.35,1.0,12,placed_12m,384457
+STU0679,Law,2,7.62,0,3,0,0.45,0.7,6,placed_6m,606144
+STU0680,Law,2,6.14,3,2,1,0.45,0.7,6,placed_6m,555020
+STU0681,Engineering,3,6.86,1,1,1,0.75,0.45,24,delayed,649014
+STU0682,Engineering,1,6.52,0,1,0,0.75,1.0,12,placed_12m,760767
+STU0683,Data Science,2,6.42,1,0,1,0.85,0.7,6,placed_6m,1003685
+STU0684,Arts,2,8.28,0,4,1,0.35,0.7,24,delayed,325974
+STU0685,Data Science,1,5.69,1,0,0,0.85,1.0,12,placed_12m,1011137
+STU0686,Data Science,1,8.97,1,4,1,0.85,1.0,6,placed_6m,1020786
+STU0687,Engineering,2,8.11,1,0,1,0.75,0.7,6,placed_6m,730819
+STU0688,Nursing,2,8.4,2,4,1,0.6,0.7,12,placed_12m,484806
+STU0689,Engineering,2,6.69,2,3,0,0.75,0.7,12,placed_12m,675123
+STU0690,MBA,2,7.04,2,1,0,0.7,0.7,6,placed_6m,827661
+STU0691,MBA,2,5.62,1,4,1,0.7,0.7,12,placed_12m,756796
+STU0692,Data Science,1,6.62,2,3,0,0.85,1.0,6,placed_6m,1166800
+STU0693,Engineering,2,7.74,3,2,1,0.75,0.7,3,placed_3m,857221
+STU0694,Engineering,3,8.63,0,0,0,0.75,0.45,6,placed_6m,761626
+STU0695,Data Science,2,5.98,1,2,1,0.85,0.7,6,placed_6m,902152
+STU0696,Engineering,3,6.8,1,3,1,0.75,0.45,6,placed_6m,701460
+STU0697,Data Science,2,7.03,0,2,0,0.85,0.7,12,placed_12m,957262
+STU0698,Engineering,3,5.66,2,2,0,0.75,0.45,3,placed_3m,622240
+STU0699,MBA,3,7.85,2,3,1,0.7,0.45,6,placed_6m,862299
+STU0700,Data Science,2,6.4,0,1,1,0.85,0.7,6,placed_6m,1038749
+STU0701,Engineering,3,6.99,2,4,0,0.75,0.45,12,placed_12m,724596
+STU0702,MBA,1,6.7,2,0,1,0.7,1.0,3,placed_3m,928287
+STU0703,Engineering,1,6.33,3,4,0,0.75,1.0,3,placed_3m,752310
+STU0704,Engineering,3,7.19,1,0,1,0.75,0.45,12,placed_12m,687052
+STU0705,Arts,3,6.96,3,4,1,0.35,0.45,12,placed_12m,338402
+STU0706,MBA,1,6.79,1,2,0,0.7,1.0,12,placed_12m,968984
+STU0707,Law,2,6.4,1,1,1,0.45,0.7,12,placed_12m,507759
+STU0708,Engineering,1,7.55,0,2,0,0.75,1.0,12,placed_12m,722505
+STU0709,Data Science,2,9.02,0,1,0,0.85,0.7,12,placed_12m,1017456
+STU0710,Nursing,3,7.35,2,3,0,0.6,0.45,12,placed_12m,435208
+STU0711,Data Science,2,8.3,1,0,1,0.85,0.7,6,placed_6m,1086773
+STU0712,MBA,2,5.67,1,0,1,0.7,0.7,24,delayed,789848
+STU0713,MBA,2,7.37,0,3,1,0.7,0.7,6,placed_6m,811648
+STU0714,MBA,1,5.99,2,4,0,0.7,1.0,6,placed_6m,813621
+STU0715,Arts,2,5.58,0,3,0,0.35,0.7,24,delayed,238339
+STU0716,Law,2,6.39,2,3,1,0.45,0.7,12,placed_12m,570253
+STU0717,Arts,3,8.51,0,1,0,0.35,0.45,24,delayed,302700
+STU0718,Engineering,3,8.25,0,3,1,0.75,0.45,24,delayed,628905
+STU0719,Nursing,1,7.47,1,0,0,0.6,1.0,3,placed_3m,515375
+STU0720,Arts,3,5.51,1,2,1,0.35,0.45,12,placed_12m,267478
+STU0721,Engineering,3,6.98,1,1,0,0.75,0.45,6,placed_6m,734030
+STU0722,Engineering,3,7.53,1,1,1,0.75,0.45,12,placed_12m,752900
+STU0723,Nursing,2,7.39,3,4,0,0.6,0.7,6,placed_6m,414611
+STU0724,Data Science,2,5.17,2,2,0,0.85,0.7,6,placed_6m,999133
+STU0725,Law,2,6.22,0,1,0,0.45,0.7,12,placed_12m,522028
+STU0726,Engineering,1,7.13,1,3,0,0.75,1.0,12,placed_12m,589118
+STU0727,Nursing,2,7.79,2,1,0,0.6,0.7,6,placed_6m,424874
+STU0728,Engineering,2,4.78,1,1,1,0.75,0.7,12,placed_12m,659724
+STU0729,Engineering,2,7.02,0,1,1,0.75,0.7,3,placed_3m,777821
+STU0730,Engineering,3,7.36,2,4,1,0.75,0.45,6,placed_6m,740549
+STU0731,Law,2,8.13,2,1,1,0.45,0.7,3,placed_3m,641517
+STU0732,Data Science,1,7.96,1,1,1,0.85,1.0,6,placed_6m,1140510
+STU0733,Data Science,3,7.84,0,4,1,0.85,0.45,24,delayed,1094989
+STU0734,MBA,3,6.32,0,2,1,0.7,0.45,3,placed_3m,916209
+STU0735,Law,3,5.1,2,0,1,0.45,0.45,12,placed_12m,494889
+STU0736,MBA,3,6.77,0,4,1,0.7,0.45,12,placed_12m,670037
+STU0737,Law,2,8.3,1,4,0,0.45,0.7,3,placed_3m,532159
+STU0738,MBA,3,8.73,1,1,0,0.7,0.45,6,placed_6m,977417
+STU0739,MBA,1,7.98,1,1,1,0.7,1.0,3,placed_3m,954299
+STU0740,MBA,2,7.67,3,0,0,0.7,0.7,6,placed_6m,956829
+STU0741,MBA,2,7.62,2,1,1,0.7,0.7,3,placed_3m,816033
+STU0742,Nursing,1,6.59,2,3,1,0.6,1.0,3,placed_3m,448238
+STU0743,Data Science,1,7.06,0,1,0,0.85,1.0,12,placed_12m,1038787
+STU0744,Engineering,2,9.04,0,1,0,0.75,0.7,12,placed_12m,740055
+STU0745,Law,3,6.16,1,3,1,0.45,0.45,12,placed_12m,512302
+STU0746,MBA,2,8.98,0,0,1,0.7,0.7,6,placed_6m,857495
+STU0747,Data Science,1,6.85,3,3,0,0.85,1.0,3,placed_3m,1100945
+STU0748,Arts,3,8.66,0,4,1,0.35,0.45,12,placed_12m,348478
+STU0749,Data Science,2,5.65,1,3,1,0.85,0.7,6,placed_6m,1001737
+STU0750,Engineering,2,7.84,1,2,0,0.75,0.7,6,placed_6m,751218
+STU0751,Arts,3,6.39,2,4,0,0.35,0.45,12,placed_12m,288185
+STU0752,Data Science,2,5.64,0,1,1,0.85,0.7,12,placed_12m,729768
+STU0753,MBA,2,7.44,1,4,0,0.7,0.7,6,placed_6m,855753
+STU0754,Engineering,3,8.31,1,0,1,0.75,0.45,6,placed_6m,664217
+STU0755,Nursing,2,6.27,3,0,1,0.6,0.7,6,placed_6m,463200
+STU0756,Data Science,2,5.55,0,3,1,0.85,0.7,12,placed_12m,1174870
+STU0757,Data Science,3,7.1,3,4,1,0.85,0.45,6,placed_6m,1114255
+STU0758,Law,3,7.1,2,1,1,0.45,0.45,12,placed_12m,677867
+STU0759,Nursing,1,7.8,1,0,0,0.6,1.0,12,placed_12m,491717
+STU0760,Engineering,1,8.24,2,1,0,0.75,1.0,3,placed_3m,763352
+STU0761,MBA,1,7.13,0,2,1,0.7,1.0,6,placed_6m,916549
+STU0762,Engineering,2,9.24,3,0,1,0.75,0.7,6,placed_6m,889202
+STU0763,Nursing,2,7.45,1,3,0,0.6,0.7,3,placed_3m,507596
+STU0764,Engineering,1,6.82,1,2,1,0.75,1.0,6,placed_6m,699451
+STU0765,Data Science,3,5.43,1,4,0,0.85,0.45,24,delayed,913456
+STU0766,Nursing,2,6.91,0,1,0,0.6,0.7,24,delayed,369060
+STU0767,Law,2,6.83,3,0,0,0.45,0.7,3,placed_3m,645611
+STU0768,MBA,2,8.26,0,2,1,0.7,0.7,24,delayed,957813
+STU0769,Law,3,7.71,2,2,1,0.45,0.45,3,placed_3m,594518
+STU0770,Engineering,1,5.9,1,0,0,0.75,1.0,6,placed_6m,667546
+STU0771,Law,2,7.39,3,4,0,0.45,0.7,3,placed_3m,641017
+STU0772,Engineering,3,7.94,0,4,0,0.75,0.45,12,placed_12m,687198
+STU0773,MBA,2,8.88,1,3,1,0.7,0.7,6,placed_6m,946024
+STU0774,Nursing,2,8.18,1,4,0,0.6,0.7,6,placed_6m,468898
+STU0775,Engineering,2,8.04,2,3,1,0.75,0.7,3,placed_3m,743014
+STU0776,Engineering,1,7.27,0,2,0,0.75,1.0,6,placed_6m,768288
+STU0777,Nursing,1,7.63,0,0,1,0.6,1.0,12,placed_12m,480797
+STU0778,Nursing,2,8.57,0,4,0,0.6,0.7,12,placed_12m,423728
+STU0779,Data Science,2,5.73,2,3,1,0.85,0.7,12,placed_12m,933764
+STU0780,Data Science,1,6.82,0,2,0,0.85,1.0,3,placed_3m,1047762
+STU0781,Data Science,3,6.35,1,4,0,0.85,0.45,12,placed_12m,1012310
+STU0782,Engineering,3,7.62,0,1,1,0.75,0.45,12,placed_12m,664618
+STU0783,MBA,3,8.55,2,2,1,0.7,0.45,12,placed_12m,868407
+STU0784,Engineering,3,6.54,3,4,1,0.75,0.45,6,placed_6m,705352
+STU0785,Arts,2,4.57,1,2,1,0.35,0.7,24,delayed,273112
+STU0786,Data Science,3,6.75,1,0,1,0.85,0.45,12,placed_12m,1040490
+STU0787,MBA,1,8.2,0,0,1,0.7,1.0,6,placed_6m,955789
+STU0788,MBA,3,7.79,0,0,0,0.7,0.45,24,delayed,790760
+STU0789,Arts,3,7.67,1,1,1,0.35,0.45,6,placed_6m,325613
+STU0790,Engineering,3,6.89,2,0,1,0.75,0.45,12,placed_12m,738882
+STU0791,Data Science,3,5.79,1,1,0,0.85,0.45,12,placed_12m,893174
+STU0792,Data Science,2,7.77,3,0,1,0.85,0.7,3,placed_3m,1173873
+STU0793,Data Science,2,6.28,1,2,0,0.85,0.7,6,placed_6m,1007379
+STU0794,Engineering,2,9.6,2,4,0,0.75,0.7,6,placed_6m,815070
+STU0795,Law,2,7.83,1,4,1,0.45,0.7,3,placed_3m,578048
+STU0796,Arts,1,6.56,1,0,1,0.35,1.0,6,placed_6m,338162
+STU0797,Data Science,2,6.53,1,4,0,0.85,0.7,6,placed_6m,1103249
+STU0798,Data Science,3,7.1,1,0,0,0.85,0.45,24,delayed,902934
+STU0799,Arts,1,6.94,1,0,1,0.35,1.0,12,placed_12m,307666
+STU0800,Nursing,3,8.43,2,3,0,0.6,0.45,3,placed_3m,425039
+STU0801,Engineering,3,7.41,3,3,1,0.75,0.45,6,placed_6m,662459
+STU0802,Data Science,3,6.4,1,3,1,0.85,0.45,24,delayed,981647
+STU0803,Data Science,3,9.28,0,1,1,0.85,0.45,6,placed_6m,971104
+STU0804,MBA,2,7.25,1,3,1,0.7,0.7,3,placed_3m,866972
+STU0805,Nursing,3,8.05,1,0,1,0.6,0.45,6,placed_6m,460781
+STU0806,Arts,3,6.53,0,2,1,0.35,0.45,24,delayed,293966
+STU0807,Arts,1,7.6,2,3,1,0.35,1.0,6,placed_6m,350922
+STU0808,MBA,2,7.54,3,3,1,0.7,0.7,3,placed_3m,957101
+STU0809,Engineering,3,5.12,3,2,1,0.75,0.45,24,delayed,632784
+STU0810,Arts,2,9.42,0,0,1,0.35,0.7,6,placed_6m,344512
+STU0811,Law,2,8.62,2,1,0,0.45,0.7,6,placed_6m,629142
+STU0812,Engineering,3,6.76,2,3,0,0.75,0.45,6,placed_6m,786693
+STU0813,Arts,1,5.99,1,2,0,0.35,1.0,6,placed_6m,345786
+STU0814,Law,2,7.58,1,0,0,0.45,0.7,12,placed_12m,687950
+STU0815,Data Science,3,7.3,2,4,0,0.85,0.45,3,placed_3m,1012885
+STU0816,Data Science,2,7.59,1,1,1,0.85,0.7,6,placed_6m,1065238
+STU0817,MBA,1,7.41,1,2,1,0.7,1.0,6,placed_6m,851100
+STU0818,Engineering,1,7.76,1,2,1,0.75,1.0,3,placed_3m,720096
+STU0819,MBA,2,8.79,1,2,1,0.7,0.7,6,placed_6m,1051941
+STU0820,Law,3,7.82,0,3,1,0.45,0.45,6,placed_6m,538491
+STU0821,Engineering,2,6.05,3,4,1,0.75,0.7,3,placed_3m,803736
+STU0822,MBA,2,8.7,2,1,1,0.7,0.7,3,placed_3m,889416
+STU0823,MBA,2,9.0,2,0,0,0.7,0.7,3,placed_3m,912279
+STU0824,Data Science,2,10.0,0,0,1,0.85,0.7,6,placed_6m,1125181
+STU0825,Arts,3,5.96,2,4,1,0.35,0.45,6,placed_6m,304436
+STU0826,MBA,3,7.47,0,2,0,0.7,0.45,12,placed_12m,871654
+STU0827,MBA,1,4.91,0,2,1,0.7,1.0,24,delayed,811159
+STU0828,Nursing,2,7.81,1,2,1,0.6,0.7,12,placed_12m,439071
+STU0829,MBA,1,6.6,1,2,0,0.7,1.0,12,placed_12m,883137
+STU0830,Engineering,2,9.32,1,2,1,0.75,0.7,24,delayed,728158
+STU0831,MBA,3,6.35,0,4,0,0.7,0.45,12,placed_12m,719417
+STU0832,Engineering,1,5.34,1,3,0,0.75,1.0,12,placed_12m,632634
+STU0833,Engineering,2,6.68,0,1,1,0.75,0.7,12,placed_12m,708786
+STU0834,MBA,2,5.03,3,2,1,0.7,0.7,6,placed_6m,736946
+STU0835,MBA,3,8.03,1,3,1,0.7,0.45,12,placed_12m,959274
+STU0836,Arts,3,4.93,2,0,1,0.35,0.45,12,placed_12m,280181
+STU0837,MBA,1,7.23,1,4,0,0.7,1.0,3,placed_3m,882635
+STU0838,Data Science,3,4.91,0,3,1,0.85,0.45,6,placed_6m,929160
+STU0839,Data Science,2,6.85,3,2,1,0.85,0.7,12,placed_12m,1193580
+STU0840,Engineering,2,9.01,1,2,1,0.75,0.7,6,placed_6m,810377
+STU0841,Data Science,3,7.6,1,2,0,0.85,0.45,12,placed_12m,1051485
+STU0842,Engineering,3,6.25,2,3,1,0.75,0.45,12,placed_12m,708674
+STU0843,Arts,3,7.17,0,2,1,0.35,0.45,12,placed_12m,262069
+STU0844,Engineering,2,7.22,2,3,1,0.75,0.7,6,placed_6m,698046
+STU0845,MBA,2,7.72,1,2,1,0.7,0.7,6,placed_6m,842950
+STU0846,Engineering,3,5.7,1,0,0,0.75,0.45,12,placed_12m,678676
+STU0847,Arts,2,7.85,0,0,1,0.35,0.7,24,delayed,308535
+STU0848,Data Science,2,4.23,0,1,1,0.85,0.7,12,placed_12m,939501
+STU0849,Data Science,2,6.51,3,2,0,0.85,0.7,3,placed_3m,1126777
+STU0850,Engineering,3,6.66,2,2,1,0.75,0.45,6,placed_6m,634996
+STU0851,Nursing,2,7.9,0,3,1,0.6,0.7,6,placed_6m,427643
+STU0852,Engineering,1,7.22,0,3,1,0.75,1.0,3,placed_3m,785100
+STU0853,Law,3,5.65,2,2,1,0.45,0.45,6,placed_6m,507411
+STU0854,Engineering,1,6.12,1,1,0,0.75,1.0,6,placed_6m,711988
+STU0855,Engineering,2,7.42,1,2,1,0.75,0.7,6,placed_6m,671494
+STU0856,Engineering,2,7.11,1,3,1,0.75,0.7,12,placed_12m,677321
+STU0857,MBA,1,6.56,0,2,0,0.7,1.0,6,placed_6m,871466
+STU0858,Data Science,1,6.67,2,3,0,0.85,1.0,3,placed_3m,1063207
+STU0859,Engineering,1,7.97,3,2,0,0.75,1.0,3,placed_3m,759122
+STU0860,Nursing,3,6.63,0,4,1,0.6,0.45,12,placed_12m,406382
+STU0861,MBA,2,7.1,1,3,1,0.7,0.7,6,placed_6m,823806
+STU0862,Data Science,3,9.59,1,1,1,0.85,0.45,6,placed_6m,1057794
+STU0863,MBA,2,5.63,1,4,1,0.7,0.7,12,placed_12m,753679
+STU0864,MBA,2,5.16,1,2,1,0.7,0.7,12,placed_12m,787687
+STU0865,Data Science,2,8.06,2,3,0,0.85,0.7,6,placed_6m,1190484
+STU0866,Engineering,2,6.45,1,4,1,0.75,0.7,6,placed_6m,752418
+STU0867,Engineering,3,6.85,1,1,1,0.75,0.45,12,placed_12m,619654
+STU0868,Law,2,6.34,1,3,1,0.45,0.7,6,placed_6m,649947
+STU0869,Arts,2,6.91,0,4,1,0.35,0.7,12,placed_12m,288493
+STU0870,MBA,3,8.96,0,4,1,0.7,0.45,12,placed_12m,937202
+STU0871,Engineering,3,8.08,2,4,1,0.75,0.45,12,placed_12m,676828
+STU0872,Data Science,3,8.15,0,0,0,0.85,0.45,24,delayed,924973
+STU0873,MBA,2,5.64,2,2,1,0.7,0.7,12,placed_12m,790645
+STU0874,Engineering,3,5.93,1,3,0,0.75,0.45,24,delayed,609494
+STU0875,Engineering,2,4.08,1,3,0,0.75,0.7,3,placed_3m,640399
+STU0876,Nursing,2,6.31,1,3,1,0.6,0.7,12,placed_12m,443614
+STU0877,Data Science,2,8.25,1,4,0,0.85,0.7,6,placed_6m,1033139
+STU0878,Engineering,2,7.77,0,2,0,0.75,0.7,3,placed_3m,655805
+STU0879,Engineering,1,6.96,1,1,0,0.75,1.0,6,placed_6m,687191
+STU0880,Engineering,2,7.18,2,3,1,0.75,0.7,6,placed_6m,716419
+STU0881,Data Science,3,6.44,2,2,1,0.85,0.45,12,placed_12m,978268
+STU0882,Engineering,2,7.43,1,2,1,0.75,0.7,3,placed_3m,667398
+STU0883,Engineering,1,8.04,1,0,0,0.75,1.0,6,placed_6m,776714
+STU0884,Nursing,1,5.42,0,3,1,0.6,1.0,24,delayed,475810
+STU0885,Engineering,3,7.53,0,4,1,0.75,0.45,12,placed_12m,630662
+STU0886,Data Science,2,8.23,0,2,0,0.85,0.7,12,placed_12m,1027442
+STU0887,Engineering,2,6.74,3,2,1,0.75,0.7,6,placed_6m,755665
+STU0888,Engineering,3,7.97,0,1,1,0.75,0.45,6,placed_6m,648799
+STU0889,Engineering,3,10.0,0,0,0,0.75,0.45,6,placed_6m,768610
+STU0890,Nursing,2,7.09,1,2,1,0.6,0.7,3,placed_3m,423267
+STU0891,Law,3,7.63,0,2,1,0.45,0.45,6,placed_6m,627850
+STU0892,Law,3,6.39,2,4,0,0.45,0.45,6,placed_6m,570577
+STU0893,MBA,3,7.4,0,4,0,0.7,0.45,12,placed_12m,776525
+STU0894,Data Science,1,7.71,0,1,0,0.85,1.0,12,placed_12m,1046897
+STU0895,Engineering,3,7.41,2,1,0,0.75,0.45,12,placed_12m,666767
+STU0896,Engineering,2,6.08,1,1,1,0.75,0.7,6,placed_6m,734742
+STU0897,Law,2,7.43,2,4,1,0.45,0.7,6,placed_6m,557008
+STU0898,Engineering,2,8.81,1,4,0,0.75,0.7,6,placed_6m,718691
+STU0899,Engineering,1,7.69,1,0,1,0.75,1.0,3,placed_3m,730095
+STU0900,Engineering,1,8.26,2,3,0,0.75,1.0,3,placed_3m,793242
+STU0901,Engineering,3,6.94,0,3,0,0.75,0.45,24,delayed,609165
+STU0902,Engineering,1,8.02,1,0,0,0.75,1.0,3,placed_3m,695417
+STU0903,Data Science,2,7.51,1,3,1,0.85,0.7,12,placed_12m,1027536
+STU0904,MBA,2,6.15,1,4,1,0.7,0.7,3,placed_3m,837614
+STU0905,Law,1,7.55,2,3,0,0.45,1.0,3,placed_3m,618843
+STU0906,Law,3,6.11,2,4,0,0.45,0.45,6,placed_6m,577282
+STU0907,MBA,2,6.5,3,0,1,0.7,0.7,12,placed_12m,947808
+STU0908,Engineering,2,7.41,2,1,1,0.75,0.7,6,placed_6m,724985
+STU0909,MBA,2,7.53,1,0,0,0.7,0.7,3,placed_3m,908906
+STU0910,Data Science,2,5.89,0,3,0,0.85,0.7,24,delayed,775536
+STU0911,Engineering,1,8.36,1,4,1,0.75,1.0,6,placed_6m,753068
+STU0912,Data Science,3,7.83,1,3,1,0.85,0.45,3,placed_3m,1115036
+STU0913,MBA,3,6.42,1,3,0,0.7,0.45,24,delayed,758023
+STU0914,Data Science,2,5.51,3,1,1,0.85,0.7,6,placed_6m,984556
+STU0915,MBA,3,7.04,1,3,1,0.7,0.45,24,delayed,943184
+STU0916,Engineering,3,6.71,1,1,1,0.75,0.45,3,placed_3m,748849
+STU0917,Arts,3,7.32,1,4,1,0.35,0.45,6,placed_6m,326049
+STU0918,Nursing,2,6.8,2,4,1,0.6,0.7,3,placed_3m,486992
+STU0919,Engineering,2,4.99,2,1,1,0.75,0.7,12,placed_12m,541909
+STU0920,Law,2,6.77,2,0,0,0.45,0.7,12,placed_12m,553651
+STU0921,MBA,3,6.86,1,4,0,0.7,0.45,3,placed_3m,804508
+STU0922,Law,3,7.9,2,0,1,0.45,0.45,6,placed_6m,585069
+STU0923,Nursing,1,6.43,0,4,0,0.6,1.0,6,placed_6m,425563
+STU0924,MBA,2,9.05,2,4,1,0.7,0.7,3,placed_3m,824056
+STU0925,Engineering,3,5.1,1,2,1,0.75,0.45,12,placed_12m,620445
+STU0926,Engineering,3,8.64,1,3,1,0.75,0.45,12,placed_12m,734363
+STU0927,Data Science,3,6.95,1,3,1,0.85,0.45,12,placed_12m,1101732
+STU0928,Data Science,3,8.15,2,0,0,0.85,0.45,6,placed_6m,1024541
+STU0929,Engineering,2,7.29,0,3,1,0.75,0.7,6,placed_6m,643365
+STU0930,Engineering,2,8.45,2,0,1,0.75,0.7,3,placed_3m,635216
+STU0931,Law,3,6.77,1,4,0,0.45,0.45,24,delayed,519271
+STU0932,Arts,1,5.99,1,2,1,0.35,1.0,24,delayed,337399
+STU0933,Data Science,2,8.76,0,2,0,0.85,0.7,3,placed_3m,1055642
+STU0934,Engineering,3,7.08,1,4,1,0.75,0.45,12,placed_12m,764140
+STU0935,Engineering,1,7.44,1,1,1,0.75,1.0,3,placed_3m,737244
+STU0936,Engineering,3,8.56,1,1,0,0.75,0.45,3,placed_3m,724052
+STU0937,Arts,2,6.06,2,3,1,0.35,0.7,6,placed_6m,290741
+STU0938,Engineering,3,7.86,1,0,1,0.75,0.45,3,placed_3m,709687
+STU0939,Data Science,1,6.55,3,2,0,0.85,1.0,3,placed_3m,1001664
+STU0940,Engineering,2,7.05,1,3,0,0.75,0.7,6,placed_6m,731435
+STU0941,Data Science,2,7.28,2,4,1,0.85,0.7,6,placed_6m,1139486
+STU0942,Data Science,2,5.55,0,2,1,0.85,0.7,24,delayed,1013608
+STU0943,Law,3,6.34,1,0,1,0.45,0.45,6,placed_6m,498199
+STU0944,Engineering,3,8.69,1,0,1,0.75,0.45,12,placed_12m,717292
+STU0945,Engineering,1,8.17,1,1,1,0.75,1.0,6,placed_6m,794807
+STU0946,Engineering,2,7.13,2,3,1,0.75,0.7,6,placed_6m,741662
+STU0947,Arts,2,7.47,0,4,1,0.35,0.7,6,placed_6m,302861
+STU0948,Law,2,6.88,0,2,1,0.45,0.7,12,placed_12m,458729
+STU0949,Data Science,3,8.69,2,0,0,0.85,0.45,12,placed_12m,1119632
+STU0950,Data Science,3,6.98,0,2,0,0.85,0.45,12,placed_12m,946602
+STU0951,Data Science,3,7.46,2,4,1,0.85,0.45,6,placed_6m,1009425
+STU0952,Engineering,3,8.46,1,2,0,0.75,0.45,6,placed_6m,746988
+STU0953,Arts,2,6.34,2,3,1,0.35,0.7,12,placed_12m,320688
+STU0954,MBA,3,8.91,0,1,1,0.7,0.45,6,placed_6m,800773
+STU0955,MBA,3,5.52,0,2,0,0.7,0.45,24,delayed,608481
+STU0956,Data Science,3,8.99,1,1,1,0.85,0.45,6,placed_6m,1008131
+STU0957,Engineering,3,6.79,3,4,1,0.75,0.45,6,placed_6m,815066
+STU0958,Engineering,2,6.93,1,1,1,0.75,0.7,12,placed_12m,721684
+STU0959,Nursing,3,5.12,1,2,0,0.6,0.45,12,placed_12m,387399
+STU0960,Engineering,1,6.7,2,2,0,0.75,1.0,3,placed_3m,738522
+STU0961,Data Science,2,6.06,3,0,1,0.85,0.7,3,placed_3m,1050092
+STU0962,Engineering,2,6.53,2,2,1,0.75,0.7,12,placed_12m,750973
+STU0963,MBA,3,7.05,3,1,0,0.7,0.45,3,placed_3m,860212
+STU0964,Engineering,3,8.25,0,0,0,0.75,0.45,6,placed_6m,711799
+STU0965,MBA,3,7.43,0,2,1,0.7,0.45,3,placed_3m,807970
+STU0966,Nursing,3,7.54,2,2,1,0.6,0.45,6,placed_6m,503994
+STU0967,Engineering,2,5.99,2,4,1,0.75,0.7,3,placed_3m,725727
+STU0968,Data Science,3,6.23,1,0,1,0.85,0.45,12,placed_12m,1043582
+STU0969,MBA,2,9.18,0,4,1,0.7,0.7,6,placed_6m,892257
+STU0970,Data Science,2,6.39,2,4,0,0.85,0.7,3,placed_3m,1129168
+STU0971,Arts,1,9.02,0,4,1,0.35,1.0,24,delayed,343303
+STU0972,Nursing,3,6.93,1,3,0,0.6,0.45,12,placed_12m,419431
+STU0973,Engineering,3,7.2,1,4,1,0.75,0.45,12,placed_12m,743557
+STU0974,Engineering,2,8.38,1,1,1,0.75,0.7,3,placed_3m,691518
+STU0975,Engineering,1,8.6,2,2,0,0.75,1.0,6,placed_6m,810228
+STU0976,Data Science,3,7.08,1,3,1,0.85,0.45,6,placed_6m,1034801
+STU0977,Engineering,1,6.77,2,4,1,0.75,1.0,3,placed_3m,774398
+STU0978,MBA,3,7.14,1,2,0,0.7,0.45,12,placed_12m,801896
+STU0979,Data Science,3,7.57,1,0,1,0.85,0.45,12,placed_12m,1164439
+STU0980,MBA,2,8.18,2,0,0,0.7,0.7,6,placed_6m,862195
+STU0981,Nursing,2,7.2,1,2,1,0.6,0.7,6,placed_6m,489355
+STU0982,Engineering,3,7.88,0,1,1,0.75,0.45,12,placed_12m,723746
+STU0983,Engineering,3,9.0,0,2,0,0.75,0.45,3,placed_3m,801558
+STU0984,Nursing,2,7.62,0,2,1,0.6,0.7,12,placed_12m,387187
+STU0985,MBA,3,7.54,1,3,0,0.7,0.45,3,placed_3m,806038
+STU0986,Data Science,1,5.53,2,0,1,0.85,1.0,3,placed_3m,1175608
+STU0987,MBA,2,4.31,2,0,1,0.7,0.7,3,placed_3m,686672
+STU0988,Engineering,3,7.63,2,4,0,0.75,0.45,12,placed_12m,620706
+STU0989,Law,3,7.1,1,2,0,0.45,0.45,24,delayed,519526
+STU0990,Nursing,1,6.63,1,2,1,0.6,1.0,6,placed_6m,462794
+STU0991,Data Science,3,7.47,1,1,1,0.85,0.45,6,placed_6m,1135444
+STU0992,Engineering,2,7.13,0,0,0,0.75,0.7,12,placed_12m,664113
+STU0993,Data Science,2,8.44,0,1,1,0.85,0.7,6,placed_6m,1035781
+STU0994,MBA,1,7.29,1,3,0,0.7,1.0,6,placed_6m,945360
+STU0995,Engineering,3,6.38,3,4,0,0.75,0.45,6,placed_6m,710392
+STU0996,Arts,1,8.29,0,1,1,0.35,1.0,6,placed_6m,360432
+STU0997,Engineering,2,6.96,0,0,0,0.75,0.7,12,placed_12m,659291
+STU0998,Arts,2,7.78,2,3,1,0.35,0.7,6,placed_6m,301481
+STU0999,MBA,3,6.67,1,2,1,0.7,0.45,12,placed_12m,756499
+STU1000,Engineering,3,6.49,2,3,1,0.75,0.45,6,placed_6m,739228
+STU1001,Data Science,3,7.29,2,1,1,0.85,0.45,12,placed_12m,1045135
+STU1002,Law,2,7.21,3,0,1,0.45,0.7,3,placed_3m,609326
+STU1003,Nursing,2,7.73,1,1,1,0.6,0.7,6,placed_6m,488937
+STU1004,Law,2,6.9,2,2,1,0.45,0.7,12,placed_12m,543240
+STU1005,Data Science,3,5.18,1,2,1,0.85,0.45,24,delayed,867875
+STU1006,Data Science,3,6.72,2,0,1,0.85,0.45,3,placed_3m,1032871
+STU1007,Law,1,8.07,1,4,0,0.45,1.0,6,placed_6m,619591
+STU1008,Engineering,3,6.87,0,3,1,0.75,0.45,6,placed_6m,647523
+STU1009,MBA,1,6.93,1,3,1,0.7,1.0,6,placed_6m,901700
+STU1010,Engineering,2,8.29,1,2,1,0.75,0.7,12,placed_12m,660381
+STU1011,Arts,2,6.42,2,1,1,0.35,0.7,24,delayed,319767
+STU1012,Arts,2,5.5,2,1,1,0.35,0.7,24,delayed,273152
+STU1013,Engineering,2,7.02,2,4,1,0.75,0.7,3,placed_3m,728898
+STU1014,Nursing,2,6.67,0,1,0,0.6,0.7,24,delayed,449654
+STU1015,Arts,2,6.14,2,3,1,0.35,0.7,24,delayed,305491
+STU1016,Engineering,3,7.01,1,1,0,0.75,0.45,3,placed_3m,614231
+STU1017,Data Science,2,7.74,3,4,1,0.85,0.7,3,placed_3m,1134561
+STU1018,Arts,1,7.19,3,3,1,0.35,1.0,6,placed_6m,344520
+STU1019,Engineering,3,7.54,0,1,0,0.75,0.45,6,placed_6m,691166
+STU1020,Data Science,2,9.19,2,3,0,0.85,0.7,3,placed_3m,1168483
+STU1021,Engineering,2,6.82,0,2,1,0.75,0.7,6,placed_6m,753253
+STU1022,Arts,3,7.51,1,2,0,0.35,0.45,24,delayed,333670
+STU1023,Arts,2,6.64,1,2,0,0.35,0.7,12,placed_12m,313062
+STU1024,Arts,1,6.27,0,1,1,0.35,1.0,12,placed_12m,334795
+STU1025,MBA,2,6.56,2,4,0,0.7,0.7,6,placed_6m,855403
+STU1026,Law,3,6.67,0,3,1,0.45,0.45,24,delayed,513192
+STU1027,Law,2,7.6,0,0,1,0.45,0.7,12,placed_12m,557928
+STU1028,MBA,3,9.78,1,2,0,0.7,0.45,3,placed_3m,988199
+STU1029,Law,2,6.41,2,2,0,0.45,0.7,6,placed_6m,639711
+STU1030,Engineering,1,6.74,3,0,1,0.75,1.0,3,placed_3m,806836
+STU1031,Data Science,2,7.13,2,0,1,0.85,0.7,3,placed_3m,1152629
+STU1032,Engineering,3,7.64,2,1,1,0.75,0.45,6,placed_6m,749866
+STU1033,Engineering,1,7.49,1,3,1,0.75,1.0,3,placed_3m,777407
+STU1034,Engineering,2,8.61,0,2,1,0.75,0.7,12,placed_12m,662689
+STU1035,Data Science,2,4.53,0,4,0,0.85,0.7,12,placed_12m,1014863
+STU1036,MBA,2,4.57,1,1,0,0.7,0.7,6,placed_6m,887928
+STU1037,Nursing,3,6.65,2,1,0,0.6,0.45,6,placed_6m,421109
+STU1038,Engineering,1,8.41,1,4,0,0.75,1.0,12,placed_12m,749417
+STU1039,MBA,2,5.48,2,4,1,0.7,0.7,12,placed_12m,865911
+STU1040,Data Science,1,4.0,1,4,1,0.85,1.0,6,placed_6m,1003408
+STU1041,Nursing,3,7.83,0,0,0,0.6,0.45,12,placed_12m,414298
+STU1042,MBA,1,7.47,0,2,1,0.7,1.0,6,placed_6m,833174
+STU1043,Data Science,2,6.0,2,0,0,0.85,0.7,3,placed_3m,1057420
+STU1044,Law,3,6.12,2,2,1,0.45,0.45,6,placed_6m,572038
+STU1045,Data Science,3,6.13,3,0,1,0.85,0.45,3,placed_3m,1078631
+STU1046,Engineering,2,7.32,0,3,1,0.75,0.7,6,placed_6m,702913
+STU1047,Engineering,2,6.51,3,2,1,0.75,0.7,6,placed_6m,708818
+STU1048,Law,2,7.74,0,1,0,0.45,0.7,6,placed_6m,622096
+STU1049,Engineering,2,4.06,0,2,1,0.75,0.7,12,placed_12m,583958
+STU1050,Law,2,6.26,3,2,1,0.45,0.7,3,placed_3m,579714
+STU1051,Data Science,2,5.96,1,2,1,0.85,0.7,6,placed_6m,985003
+STU1052,Arts,2,6.92,2,3,1,0.35,0.7,6,placed_6m,294109
+STU1053,Nursing,2,6.61,0,0,1,0.6,0.7,12,placed_12m,410714
+STU1054,Arts,3,8.08,1,1,1,0.35,0.45,24,delayed,331041
+STU1055,MBA,3,5.15,3,0,1,0.7,0.45,3,placed_3m,839001
+STU1056,Nursing,2,7.25,1,0,0,0.6,0.7,24,delayed,477845
+STU1057,MBA,1,7.81,2,4,1,0.7,1.0,6,placed_6m,955377
+STU1058,MBA,1,9.24,0,3,1,0.7,1.0,6,placed_6m,1003950
+STU1059,Data Science,3,6.67,2,4,1,0.85,0.45,12,placed_12m,1060729
+STU1060,Law,2,7.56,1,3,0,0.45,0.7,3,placed_3m,691178
+STU1061,Arts,1,5.22,0,0,1,0.35,1.0,12,placed_12m,307263
+STU1062,Nursing,2,4.57,1,0,0,0.6,0.7,12,placed_12m,358431
+STU1063,MBA,2,8.13,0,3,1,0.7,0.7,6,placed_6m,938847
+STU1064,MBA,2,7.19,3,0,1,0.7,0.7,3,placed_3m,1044526
+STU1065,Nursing,2,8.5,1,0,1,0.6,0.7,12,placed_12m,454992
+STU1066,Engineering,1,5.69,0,1,1,0.75,1.0,6,placed_6m,713549
+STU1067,Engineering,3,7.77,1,4,0,0.75,0.45,12,placed_12m,741135
+STU1068,MBA,2,9.26,1,4,0,0.7,0.7,12,placed_12m,1006862
+STU1069,Engineering,3,7.66,2,4,1,0.75,0.45,12,placed_12m,704877
+STU1070,Engineering,3,7.5,3,2,0,0.75,0.45,6,placed_6m,688100
+STU1071,Engineering,2,7.21,1,1,1,0.75,0.7,12,placed_12m,691380
+STU1072,Engineering,2,5.47,2,4,0,0.75,0.7,3,placed_3m,696423
+STU1073,Engineering,2,8.69,1,4,1,0.75,0.7,12,placed_12m,783328
+STU1074,Arts,2,6.53,0,1,1,0.35,0.7,24,delayed,306073
+STU1075,MBA,3,7.75,2,0,0,0.7,0.45,12,placed_12m,854265
+STU1076,MBA,3,5.48,1,4,0,0.7,0.45,12,placed_12m,800097
+STU1077,Data Science,1,5.9,2,0,1,0.85,1.0,3,placed_3m,1146917
+STU1078,Engineering,1,8.78,3,4,1,0.75,1.0,3,placed_3m,847829
+STU1079,Arts,3,6.82,1,3,1,0.35,0.45,12,placed_12m,286254
+STU1080,Nursing,3,8.8,3,2,1,0.6,0.45,6,placed_6m,476108
+STU1081,Engineering,3,7.11,2,4,1,0.75,0.45,6,placed_6m,735413
+STU1082,MBA,2,5.17,1,3,0,0.7,0.7,24,delayed,691040
+STU1083,Law,2,8.18,2,1,1,0.45,0.7,3,placed_3m,546013
+STU1084,Arts,3,6.55,1,3,0,0.35,0.45,12,placed_12m,335030
+STU1085,MBA,3,7.97,3,1,0,0.7,0.45,3,placed_3m,954818
+STU1086,Data Science,2,7.23,2,4,1,0.85,0.7,3,placed_3m,1134307
+STU1087,Engineering,1,5.5,0,1,0,0.75,1.0,24,delayed,593389
+STU1088,Arts,2,7.38,1,3,0,0.35,0.7,6,placed_6m,346884
+STU1089,Engineering,2,9.62,2,2,0,0.75,0.7,6,placed_6m,808187
+STU1090,Arts,2,7.74,0,0,1,0.35,0.7,12,placed_12m,287103
+STU1091,Data Science,3,7.14,0,0,1,0.85,0.45,12,placed_12m,1067201
+STU1092,Data Science,2,8.38,1,2,1,0.85,0.7,3,placed_3m,1124029
+STU1093,Data Science,3,7.43,1,0,1,0.85,0.45,12,placed_12m,979410
+STU1094,Engineering,1,7.43,1,4,1,0.75,1.0,6,placed_6m,727271
+STU1095,Engineering,3,6.0,1,4,0,0.75,0.45,12,placed_12m,532245
+STU1096,Engineering,3,7.46,0,3,1,0.75,0.45,6,placed_6m,688697
+STU1097,Engineering,1,8.34,2,3,0,0.75,1.0,3,placed_3m,808988
+STU1098,Nursing,1,6.28,1,1,0,0.6,1.0,6,placed_6m,444342
+STU1099,MBA,2,8.77,0,3,0,0.7,0.7,24,delayed,960469
+STU1100,Engineering,1,7.1,1,4,1,0.75,1.0,6,placed_6m,669048
+STU1101,Arts,3,6.22,1,3,0,0.35,0.45,6,placed_6m,286793
+STU1102,Law,3,8.3,0,0,0,0.45,0.45,12,placed_12m,530934
+STU1103,Arts,2,6.88,0,1,0,0.35,0.7,24,delayed,297338
+STU1104,Arts,2,8.04,0,1,0,0.35,0.7,24,delayed,321207
+STU1105,Engineering,2,6.88,2,4,1,0.75,0.7,3,placed_3m,737262
+STU1106,MBA,3,7.13,2,3,1,0.7,0.45,3,placed_3m,847026
+STU1107,Nursing,1,7.74,2,0,1,0.6,1.0,3,placed_3m,466402
+STU1108,Data Science,2,7.52,2,3,0,0.85,0.7,6,placed_6m,1219541
+STU1109,Engineering,2,5.0,2,2,0,0.75,0.7,6,placed_6m,772406
+STU1110,Law,2,5.97,1,3,1,0.45,0.7,12,placed_12m,554063
+STU1111,Engineering,2,8.22,2,4,0,0.75,0.7,3,placed_3m,720595
+STU1112,Engineering,3,7.05,0,3,1,0.75,0.45,12,placed_12m,711461
+STU1113,Data Science,1,6.62,2,1,0,0.85,1.0,3,placed_3m,1013283
+STU1114,Data Science,1,5.71,2,0,1,0.85,1.0,6,placed_6m,1046396
+STU1115,Data Science,3,6.01,1,4,0,0.85,0.45,12,placed_12m,893932
+STU1116,Engineering,3,4.98,1,2,1,0.75,0.45,24,delayed,527622
+STU1117,Law,1,7.09,1,0,1,0.45,1.0,12,placed_12m,595180
+STU1118,Engineering,2,6.54,2,0,1,0.75,0.7,6,placed_6m,661271
+STU1119,Engineering,2,6.14,2,1,0,0.75,0.7,3,placed_3m,694960
+STU1120,Law,2,7.13,2,1,1,0.45,0.7,12,placed_12m,595047
+STU1121,Arts,2,7.6,1,1,1,0.35,0.7,24,delayed,309020
+STU1122,Law,1,9.5,2,4,0,0.45,1.0,6,placed_6m,674825
+STU1123,Law,2,5.54,1,3,0,0.45,0.7,12,placed_12m,528355
+STU1124,Data Science,3,8.48,3,0,1,0.85,0.45,3,placed_3m,1190073
+STU1125,Data Science,2,8.27,1,3,0,0.85,0.7,3,placed_3m,1096856
+STU1126,Engineering,3,6.34,1,3,1,0.75,0.45,24,delayed,663875
+STU1127,MBA,1,7.42,1,1,0,0.7,1.0,3,placed_3m,971344
+STU1128,MBA,3,6.7,2,3,1,0.7,0.45,3,placed_3m,885726
+STU1129,Engineering,3,7.4,3,0,0,0.75,0.45,3,placed_3m,788994
+STU1130,Nursing,3,8.86,0,0,1,0.6,0.45,3,placed_3m,413136
+STU1131,MBA,3,7.87,0,2,0,0.7,0.45,24,delayed,784090
+STU1132,Engineering,3,7.76,3,4,0,0.75,0.45,6,placed_6m,813922
+STU1133,Engineering,2,6.73,1,3,0,0.75,0.7,6,placed_6m,675948
+STU1134,Data Science,2,5.57,2,4,1,0.85,0.7,3,placed_3m,813225
+STU1135,Engineering,2,6.97,1,4,0,0.75,0.7,6,placed_6m,685878
+STU1136,Law,3,8.53,0,4,1,0.45,0.45,3,placed_3m,585454
+STU1137,MBA,3,5.52,2,4,0,0.7,0.45,6,placed_6m,645602
+STU1138,MBA,2,6.04,2,0,0,0.7,0.7,6,placed_6m,939638
+STU1139,Data Science,1,7.34,1,3,1,0.85,1.0,6,placed_6m,1062612
+STU1140,Law,2,6.12,1,2,1,0.45,0.7,12,placed_12m,565231
+STU1141,MBA,3,6.33,2,4,1,0.7,0.45,24,delayed,791249
+STU1142,Data Science,2,6.73,0,2,1,0.85,0.7,12,placed_12m,898770
+STU1143,Data Science,2,5.7,3,0,1,0.85,0.7,12,placed_12m,957825
+STU1144,Engineering,2,6.13,1,0,1,0.75,0.7,6,placed_6m,625470
+STU1145,Law,2,7.97,1,1,1,0.45,0.7,12,placed_12m,641937
+STU1146,Nursing,3,5.76,3,4,0,0.6,0.45,3,placed_3m,421815
+STU1147,Data Science,3,5.44,2,1,1,0.85,0.45,12,placed_12m,910831
+STU1148,Law,3,6.51,1,2,1,0.45,0.45,24,delayed,486956
+STU1149,Law,2,8.01,2,3,1,0.45,0.7,6,placed_6m,670058
+STU1150,Nursing,2,6.98,1,1,0,0.6,0.7,6,placed_6m,485312
+STU1151,Law,2,6.69,1,0,0,0.45,0.7,6,placed_6m,620030
+STU1152,Data Science,3,7.25,3,4,1,0.85,0.45,6,placed_6m,1106401
+STU1153,Data Science,2,5.28,2,2,0,0.85,0.7,12,placed_12m,1006955
+STU1154,Data Science,2,7.74,2,0,1,0.85,0.7,6,placed_6m,1020690
+STU1155,Nursing,2,7.62,1,3,0,0.6,0.7,12,placed_12m,440707
+STU1156,Engineering,3,6.75,0,4,1,0.75,0.45,12,placed_12m,598667
+STU1157,Law,1,8.31,0,3,0,0.45,1.0,12,placed_12m,547142
+STU1158,Law,3,5.96,1,3,1,0.45,0.45,12,placed_12m,565442
+STU1159,Engineering,2,8.44,2,4,0,0.75,0.7,3,placed_3m,730071
+STU1160,Law,2,7.37,1,4,1,0.45,0.7,6,placed_6m,637502
+STU1161,Engineering,1,6.83,2,3,1,0.75,1.0,3,placed_3m,793467
+STU1162,MBA,2,7.18,0,2,0,0.7,0.7,12,placed_12m,876333
+STU1163,Nursing,2,7.08,1,4,1,0.6,0.7,6,placed_6m,461306
+STU1164,Engineering,1,8.54,0,0,0,0.75,1.0,3,placed_3m,732984
+STU1165,Law,2,6.02,1,1,0,0.45,0.7,24,delayed,611371
+STU1166,Law,3,6.36,0,2,1,0.45,0.45,24,delayed,505755
+STU1167,Data Science,1,8.34,3,4,1,0.85,1.0,6,placed_6m,1240786
+STU1168,Engineering,3,6.54,0,4,0,0.75,0.45,12,placed_12m,594191
+STU1169,Engineering,2,8.19,3,2,0,0.75,0.7,6,placed_6m,727521
+STU1170,Data Science,3,9.07,1,1,0,0.85,0.45,6,placed_6m,1127237
+STU1171,Arts,2,6.76,3,3,1,0.35,0.7,6,placed_6m,345184
+STU1172,Data Science,1,7.95,1,0,0,0.85,1.0,6,placed_6m,1084644
+STU1173,Engineering,1,5.93,3,4,1,0.75,1.0,12,placed_12m,663883
+STU1174,Data Science,1,8.03,0,1,1,0.85,1.0,24,delayed,989924
+STU1175,Data Science,1,7.42,2,0,0,0.85,1.0,3,placed_3m,1239368
+STU1176,Nursing,3,7.72,3,2,0,0.6,0.45,6,placed_6m,442493
+STU1177,Engineering,3,6.49,0,4,1,0.75,0.45,24,delayed,592428
+STU1178,Nursing,3,5.37,0,3,0,0.6,0.45,6,placed_6m,422623
+STU1179,Data Science,3,7.75,1,2,0,0.85,0.45,12,placed_12m,941616
+STU1180,Arts,1,4.93,3,4,0,0.35,1.0,3,placed_3m,316988
+STU1181,MBA,2,6.85,1,1,1,0.7,0.7,12,placed_12m,809533
+STU1182,Data Science,2,8.24,1,0,1,0.85,0.7,3,placed_3m,1222464
+STU1183,Arts,2,7.41,0,0,0,0.35,0.7,6,placed_6m,366107
+STU1184,Engineering,2,9.34,0,4,0,0.75,0.7,6,placed_6m,782870
+STU1185,Arts,2,8.33,2,2,1,0.35,0.7,6,placed_6m,370501
+STU1186,Data Science,2,6.48,0,3,1,0.85,0.7,3,placed_3m,955221
+STU1187,Engineering,2,7.23,2,1,1,0.75,0.7,6,placed_6m,816873
+STU1188,MBA,3,7.15,3,4,1,0.7,0.45,6,placed_6m,904732
+STU1189,Nursing,3,5.46,0,1,1,0.6,0.45,12,placed_12m,401367
+STU1190,Engineering,2,6.17,2,0,1,0.75,0.7,6,placed_6m,686401
+STU1191,Data Science,3,6.58,0,3,0,0.85,0.45,6,placed_6m,931693
+STU1192,MBA,3,4.96,2,1,0,0.7,0.45,6,placed_6m,881413
+STU1193,Data Science,2,7.25,0,4,1,0.85,0.7,12,placed_12m,1053711
+STU1194,Engineering,2,6.93,2,3,1,0.75,0.7,3,placed_3m,787696
+STU1195,Law,2,5.36,1,2,1,0.45,0.7,12,placed_12m,543375
+STU1196,Arts,3,7.64,1,4,0,0.35,0.45,6,placed_6m,301054
+STU1197,Arts,3,7.99,1,1,1,0.35,0.45,12,placed_12m,308290
+STU1198,Nursing,1,7.45,0,3,1,0.6,1.0,6,placed_6m,462925
+STU1199,Engineering,2,6.84,2,4,0,0.75,0.7,6,placed_6m,681733
+STU1200,Nursing,2,7.85,1,3,1,0.6,0.7,6,placed_6m,423610
+STU1201,Engineering,2,7.95,2,3,1,0.75,0.7,6,placed_6m,802615
+STU1202,Engineering,1,7.54,0,3,1,0.75,1.0,12,placed_12m,694990
+STU1203,MBA,3,6.29,2,1,1,0.7,0.45,6,placed_6m,839901
+STU1204,MBA,3,7.5,0,4,1,0.7,0.45,24,delayed,816677
+STU1205,Nursing,3,8.52,1,0,1,0.6,0.45,12,placed_12m,428272
+STU1206,Data Science,3,6.54,0,0,0,0.85,0.45,12,placed_12m,1042424
+STU1207,MBA,3,9.51,2,1,0,0.7,0.45,3,placed_3m,889823
+STU1208,Engineering,2,6.62,1,1,1,0.75,0.7,3,placed_3m,701462
+STU1209,Arts,2,7.24,3,3,1,0.35,0.7,3,placed_3m,354262
+STU1210,MBA,1,6.46,3,4,1,0.7,1.0,3,placed_3m,946817
+STU1211,MBA,3,7.45,0,4,1,0.7,0.45,12,placed_12m,737645
+STU1212,Engineering,1,5.28,2,2,0,0.75,1.0,3,placed_3m,746555
+STU1213,Nursing,3,6.6,0,2,1,0.6,0.45,24,delayed,410190
+STU1214,Data Science,2,6.0,1,0,0,0.85,0.7,6,placed_6m,951049
+STU1215,Engineering,1,7.35,2,2,1,0.75,1.0,3,placed_3m,800675
+STU1216,Engineering,1,8.29,2,2,1,0.75,1.0,3,placed_3m,813062
+STU1217,Data Science,1,7.91,2,0,1,0.85,1.0,3,placed_3m,1083148
+STU1218,Data Science,3,4.59,1,0,0,0.85,0.45,24,delayed,796119
+STU1219,Engineering,3,9.45,1,2,0,0.75,0.45,6,placed_6m,794525
+STU1220,Arts,2,7.52,0,4,1,0.35,0.7,12,placed_12m,326478
+STU1221,Engineering,1,6.35,2,2,1,0.75,1.0,6,placed_6m,705788
+STU1222,MBA,1,7.37,1,3,1,0.7,1.0,6,placed_6m,878097
+STU1223,Arts,1,7.39,2,3,0,0.35,1.0,6,placed_6m,345135
+STU1224,MBA,1,6.47,0,3,1,0.7,1.0,6,placed_6m,843948
+STU1225,Data Science,3,7.42,1,1,1,0.85,0.45,12,placed_12m,946387
+STU1226,MBA,2,6.53,1,3,0,0.7,0.7,12,placed_12m,739185
+STU1227,Engineering,2,6.76,0,4,1,0.75,0.7,12,placed_12m,716376
+STU1228,Arts,1,6.45,1,1,0,0.35,1.0,3,placed_3m,357556
+STU1229,MBA,2,5.62,2,1,1,0.7,0.7,6,placed_6m,767631
+STU1230,Law,2,7.36,3,3,1,0.45,0.7,6,placed_6m,628212
+STU1231,Engineering,2,7.84,1,2,1,0.75,0.7,6,placed_6m,678507
+STU1232,Engineering,2,7.77,1,0,1,0.75,0.7,12,placed_12m,699435
+STU1233,Engineering,1,8.1,0,2,1,0.75,1.0,12,placed_12m,721508
+STU1234,Data Science,2,7.56,2,2,0,0.85,0.7,12,placed_12m,1057750
+STU1235,MBA,2,6.61,0,1,1,0.7,0.7,12,placed_12m,941951
+STU1236,Law,2,8.12,3,1,1,0.45,0.7,6,placed_6m,624227
+STU1237,MBA,3,5.71,1,1,0,0.7,0.45,12,placed_12m,726756
+STU1238,Arts,2,6.21,1,4,0,0.35,0.7,24,delayed,286381
+STU1239,Engineering,2,6.14,3,4,1,0.75,0.7,6,placed_6m,760782
+STU1240,Law,2,8.39,0,0,0,0.45,0.7,12,placed_12m,526117
+STU1241,Nursing,2,8.24,1,1,0,0.6,0.7,6,placed_6m,441437
+STU1242,Nursing,2,7.74,1,3,1,0.6,0.7,3,placed_3m,501459
+STU1243,Law,3,8.38,0,1,0,0.45,0.45,12,placed_12m,576737
+STU1244,Nursing,3,6.23,1,4,1,0.6,0.45,12,placed_12m,408624
+STU1245,Data Science,1,7.58,2,1,0,0.85,1.0,6,placed_6m,1308520
+STU1246,Engineering,2,7.06,2,4,1,0.75,0.7,12,placed_12m,722693
+STU1247,Engineering,2,8.13,0,1,1,0.75,0.7,12,placed_12m,668954
+STU1248,Arts,3,7.07,3,3,1,0.35,0.45,3,placed_3m,326157
+STU1249,Data Science,2,6.78,0,0,0,0.85,0.7,12,placed_12m,911694
+STU1250,Nursing,2,7.79,0,3,1,0.6,0.7,3,placed_3m,484110
+STU1251,MBA,1,8.16,1,4,1,0.7,1.0,12,placed_12m,984365
+STU1252,Engineering,2,6.46,0,2,1,0.75,0.7,6,placed_6m,714416
+STU1253,Engineering,1,7.13,0,3,0,0.75,1.0,12,placed_12m,767207
+STU1254,Data Science,2,6.04,3,1,0,0.85,0.7,3,placed_3m,1037159
+STU1255,MBA,1,4.45,1,0,1,0.7,1.0,12,placed_12m,754019
+STU1256,Engineering,3,7.42,0,1,0,0.75,0.45,6,placed_6m,656632
+STU1257,MBA,2,7.87,0,1,1,0.7,0.7,6,placed_6m,825876
+STU1258,Engineering,2,7.49,2,3,0,0.75,0.7,6,placed_6m,739066
+STU1259,Data Science,3,5.06,2,0,1,0.85,0.45,3,placed_3m,1029382
+STU1260,Engineering,2,6.81,1,2,1,0.75,0.7,6,placed_6m,682851
+STU1261,Nursing,2,4.76,0,1,1,0.6,0.7,12,placed_12m,385696
+STU1262,MBA,2,8.71,0,0,1,0.7,0.7,6,placed_6m,903994
+STU1263,MBA,1,6.01,0,2,1,0.7,1.0,12,placed_12m,892113
+STU1264,Engineering,3,8.58,0,1,1,0.75,0.45,3,placed_3m,665624
+STU1265,Engineering,1,8.24,1,0,1,0.75,1.0,6,placed_6m,664284
+STU1266,MBA,2,6.21,0,3,1,0.7,0.7,3,placed_3m,848915
+STU1267,MBA,2,5.95,1,1,1,0.7,0.7,6,placed_6m,890667
+STU1268,Data Science,2,7.59,1,1,0,0.85,0.7,3,placed_3m,1108857
+STU1269,Engineering,3,6.27,3,0,1,0.75,0.45,3,placed_3m,657656
+STU1270,Data Science,2,7.31,3,1,0,0.85,0.7,3,placed_3m,1042727
+STU1271,Law,1,6.67,1,2,1,0.45,1.0,6,placed_6m,621918
+STU1272,Nursing,3,5.24,1,1,1,0.6,0.45,6,placed_6m,392991
+STU1273,Engineering,2,4.75,1,4,1,0.75,0.7,24,delayed,600356
+STU1274,MBA,3,7.45,1,2,1,0.7,0.45,24,delayed,931198
+STU1275,Engineering,3,6.58,2,0,1,0.75,0.45,6,placed_6m,628522
+STU1276,Engineering,3,6.59,1,2,0,0.75,0.45,6,placed_6m,739449
+STU1277,Arts,2,7.97,2,4,1,0.35,0.7,6,placed_6m,348594
+STU1278,Engineering,2,8.49,3,4,0,0.75,0.7,3,placed_3m,696866
+STU1279,MBA,3,6.9,1,1,1,0.7,0.45,3,placed_3m,823317
+STU1280,Data Science,2,6.83,1,1,0,0.85,0.7,12,placed_12m,1094724
+STU1281,Nursing,1,7.75,0,3,0,0.6,1.0,3,placed_3m,456780
+STU1282,Data Science,3,5.71,0,2,1,0.85,0.45,12,placed_12m,794147
+STU1283,Engineering,3,7.45,1,3,0,0.75,0.45,6,placed_6m,671967
+STU1284,MBA,2,7.81,0,4,1,0.7,0.7,12,placed_12m,815084
+STU1285,Data Science,1,7.95,2,1,0,0.85,1.0,6,placed_6m,1206832
+STU1286,Engineering,2,5.07,0,1,1,0.75,0.7,12,placed_12m,648210
+STU1287,MBA,3,6.36,1,1,1,0.7,0.45,6,placed_6m,745842
+STU1288,Engineering,3,6.23,2,0,0,0.75,0.45,3,placed_3m,633388
+STU1289,Engineering,2,7.31,2,4,0,0.75,0.7,6,placed_6m,762115
+STU1290,MBA,1,7.73,1,1,1,0.7,1.0,6,placed_6m,891425
+STU1291,Engineering,3,8.85,2,4,0,0.75,0.45,3,placed_3m,693697
+STU1292,Data Science,2,6.66,1,1,1,0.85,0.7,12,placed_12m,933133
+STU1293,Data Science,2,6.65,1,2,0,0.85,0.7,3,placed_3m,1060091
+STU1294,Law,3,8.46,0,4,0,0.45,0.45,12,placed_12m,581482
+STU1295,Engineering,1,7.53,1,3,1,0.75,1.0,12,placed_12m,707952
+STU1296,Engineering,2,8.59,2,0,0,0.75,0.7,3,placed_3m,768326
+STU1297,Engineering,1,7.52,2,3,1,0.75,1.0,3,placed_3m,845080
+STU1298,Data Science,2,5.93,2,4,0,0.85,0.7,3,placed_3m,961965
+STU1299,Nursing,3,5.73,1,1,0,0.6,0.45,12,placed_12m,333971
+STU1300,Engineering,2,5.49,0,4,1,0.75,0.7,24,delayed,630643
+STU1301,Arts,3,7.93,0,0,1,0.35,0.45,6,placed_6m,312222
+STU1302,Engineering,2,8.51,1,4,1,0.75,0.7,3,placed_3m,711392
+STU1303,Data Science,2,9.23,2,1,0,0.85,0.7,3,placed_3m,1227868
+STU1304,Nursing,2,8.13,2,3,1,0.6,0.7,3,placed_3m,503091
+STU1305,Law,2,8.48,1,2,1,0.45,0.7,12,placed_12m,522813
+STU1306,Nursing,2,6.56,1,3,0,0.6,0.7,12,placed_12m,408205
+STU1307,Law,1,5.93,1,1,1,0.45,1.0,12,placed_12m,670065
+STU1308,MBA,2,8.14,1,1,1,0.7,0.7,12,placed_12m,938820
+STU1309,Law,2,7.66,0,0,0,0.45,0.7,3,placed_3m,610405
+STU1310,Engineering,3,7.32,0,4,1,0.75,0.45,24,delayed,689844
+STU1311,Law,3,7.63,0,4,1,0.45,0.45,12,placed_12m,548835
+STU1312,Data Science,3,7.56,0,3,0,0.85,0.45,6,placed_6m,1052108
+STU1313,Law,1,8.61,0,2,1,0.45,1.0,6,placed_6m,662777
+STU1314,MBA,2,8.62,0,2,0,0.7,0.7,12,placed_12m,929510
+STU1315,Data Science,3,7.8,2,0,1,0.85,0.45,6,placed_6m,1042504
+STU1316,Data Science,2,8.13,1,1,1,0.85,0.7,6,placed_6m,1108005
+STU1317,Nursing,1,7.77,3,0,1,0.6,1.0,3,placed_3m,488282
+STU1318,Engineering,3,6.69,0,4,1,0.75,0.45,3,placed_3m,641646
+STU1319,Engineering,3,8.03,1,1,0,0.75,0.45,3,placed_3m,645129
+STU1320,Engineering,2,5.67,1,0,1,0.75,0.7,24,delayed,596031
+STU1321,Engineering,1,8.36,0,3,1,0.75,1.0,6,placed_6m,739727
+STU1322,Law,3,5.89,2,4,1,0.45,0.45,12,placed_12m,500235
+STU1323,Engineering,2,7.51,0,2,1,0.75,0.7,6,placed_6m,667690
+STU1324,Arts,3,6.27,3,0,0,0.35,0.45,3,placed_3m,317562
+STU1325,MBA,3,7.81,3,4,0,0.7,0.45,3,placed_3m,942275
+STU1326,Engineering,3,7.16,1,4,0,0.75,0.45,6,placed_6m,716944
+STU1327,Nursing,2,5.45,1,2,1,0.6,0.7,24,delayed,383237
+STU1328,Data Science,1,7.66,2,2,0,0.85,1.0,6,placed_6m,1254702
+STU1329,MBA,3,6.56,1,2,1,0.7,0.45,12,placed_12m,863727
+STU1330,Data Science,2,8.17,2,0,1,0.85,0.7,3,placed_3m,1169286
+STU1331,Nursing,3,7.2,0,2,0,0.6,0.45,24,delayed,403698
+STU1332,Engineering,1,7.63,0,3,1,0.75,1.0,12,placed_12m,739366
+STU1333,Arts,1,6.15,1,4,1,0.35,1.0,6,placed_6m,356476
+STU1334,Arts,3,6.55,1,2,1,0.35,0.45,6,placed_6m,332165
+STU1335,Data Science,3,6.7,3,4,0,0.85,0.45,3,placed_3m,1147788
+STU1336,Engineering,3,8.14,0,1,0,0.75,0.45,24,delayed,660254
+STU1337,Data Science,3,9.05,2,1,0,0.85,0.45,3,placed_3m,1167362
+STU1338,Engineering,2,6.31,0,2,0,0.75,0.7,12,placed_12m,712919
+STU1339,Engineering,3,8.38,1,4,1,0.75,0.45,3,placed_3m,681847
+STU1340,Engineering,3,4.81,1,1,1,0.75,0.45,24,delayed,563116
+STU1341,MBA,2,5.89,1,2,0,0.7,0.7,24,delayed,801701
+STU1342,Law,2,6.15,0,4,1,0.45,0.7,24,delayed,559617
+STU1343,Nursing,1,5.71,1,2,1,0.6,1.0,24,delayed,453020
+STU1344,Nursing,2,5.46,2,4,0,0.6,0.7,12,placed_12m,412718
+STU1345,MBA,3,7.65,1,1,0,0.7,0.45,12,placed_12m,757769
+STU1346,MBA,2,6.96,1,2,1,0.7,0.7,6,placed_6m,884065
+STU1347,MBA,2,7.62,2,1,1,0.7,0.7,6,placed_6m,863676
+STU1348,Arts,2,7.96,2,2,1,0.35,0.7,12,placed_12m,310925
+STU1349,Engineering,2,7.49,1,0,0,0.75,0.7,6,placed_6m,650599
+STU1350,Law,2,7.92,1,1,0,0.45,0.7,3,placed_3m,619685
+STU1351,Data Science,2,7.12,3,1,0,0.85,0.7,3,placed_3m,1213927
+STU1352,MBA,3,5.89,1,3,1,0.7,0.45,24,delayed,765870
+STU1353,Nursing,2,8.36,0,1,1,0.6,0.7,6,placed_6m,460784
+STU1354,MBA,1,6.55,1,4,0,0.7,1.0,3,placed_3m,974485
+STU1355,Law,1,6.17,2,2,1,0.45,1.0,12,placed_12m,538326
+STU1356,Arts,3,7.0,0,0,1,0.35,0.45,24,delayed,302912
+STU1357,MBA,2,6.2,3,4,1,0.7,0.7,3,placed_3m,894463
+STU1358,Engineering,3,6.74,0,4,1,0.75,0.45,12,placed_12m,658395
+STU1359,Data Science,3,7.58,2,4,0,0.85,0.45,6,placed_6m,1020969
+STU1360,Arts,3,7.58,1,4,1,0.35,0.45,12,placed_12m,297376
+STU1361,Engineering,2,6.21,1,0,0,0.75,0.7,3,placed_3m,683366
+STU1362,Data Science,3,6.66,3,3,0,0.85,0.45,3,placed_3m,1168975
+STU1363,Data Science,2,8.38,1,1,1,0.85,0.7,3,placed_3m,1174540
+STU1364,Nursing,3,7.75,1,4,1,0.6,0.45,6,placed_6m,420857
+STU1365,Engineering,2,9.48,0,1,1,0.75,0.7,6,placed_6m,686610
+STU1366,Nursing,2,8.5,0,1,1,0.6,0.7,6,placed_6m,405779
+STU1367,Arts,2,8.46,0,4,1,0.35,0.7,24,delayed,355102
+STU1368,Engineering,1,5.67,2,3,1,0.75,1.0,6,placed_6m,666856
+STU1369,Engineering,3,8.04,0,1,0,0.75,0.45,6,placed_6m,662082
+STU1370,Arts,2,7.14,0,2,1,0.35,0.7,24,delayed,336777
+STU1371,Engineering,2,6.59,1,1,1,0.75,0.7,12,placed_12m,599350
+STU1372,Law,2,7.38,2,4,1,0.45,0.7,6,placed_6m,666394
+STU1373,MBA,3,8.24,2,0,1,0.7,0.45,6,placed_6m,889396
+STU1374,Engineering,3,7.75,0,1,1,0.75,0.45,12,placed_12m,606395
+STU1375,Law,3,6.23,0,3,1,0.45,0.45,12,placed_12m,503447
+STU1376,MBA,3,8.02,3,2,1,0.7,0.45,12,placed_12m,868520
+STU1377,Data Science,1,6.5,1,2,1,0.85,1.0,3,placed_3m,1113553
+STU1378,MBA,1,7.44,2,0,0,0.7,1.0,6,placed_6m,918175
+STU1379,Data Science,3,6.87,2,0,1,0.85,0.45,6,placed_6m,886095
+STU1380,Engineering,2,6.96,2,1,1,0.75,0.7,6,placed_6m,704690
+STU1381,MBA,2,8.04,0,4,1,0.7,0.7,3,placed_3m,808027
+STU1382,Arts,1,6.06,2,3,1,0.35,1.0,3,placed_3m,344274
+STU1383,Engineering,2,9.34,2,2,1,0.75,0.7,3,placed_3m,733459
+STU1384,Data Science,1,5.2,1,0,1,0.85,1.0,12,placed_12m,971219
+STU1385,MBA,3,6.54,1,3,1,0.7,0.45,6,placed_6m,826926
+STU1386,Nursing,2,7.61,1,4,0,0.6,0.7,6,placed_6m,446195
+STU1387,Engineering,2,7.84,0,2,1,0.75,0.7,6,placed_6m,713803
+STU1388,Arts,1,7.09,1,2,1,0.35,1.0,3,placed_3m,360074
+STU1389,MBA,3,7.14,1,4,0,0.7,0.45,12,placed_12m,759406
+STU1390,Engineering,2,7.65,1,2,1,0.75,0.7,3,placed_3m,716707
+STU1391,Engineering,3,6.95,1,4,1,0.75,0.45,12,placed_12m,497558
+STU1392,Engineering,3,8.73,1,2,1,0.75,0.45,24,delayed,707846
+STU1393,Data Science,2,8.12,2,1,0,0.85,0.7,6,placed_6m,1103639
+STU1394,MBA,3,8.16,3,4,0,0.7,0.45,3,placed_3m,872309
+STU1395,Law,3,6.14,0,3,1,0.45,0.45,12,placed_12m,523559
+STU1396,MBA,3,7.11,1,1,0,0.7,0.45,3,placed_3m,912399
+STU1397,Engineering,3,6.87,0,3,1,0.75,0.45,12,placed_12m,612235
+STU1398,Data Science,2,6.09,2,2,0,0.85,0.7,6,placed_6m,965946
+STU1399,Nursing,2,7.6,2,3,1,0.6,0.7,12,placed_12m,465377
+STU1400,Engineering,1,6.61,3,1,0,0.75,1.0,3,placed_3m,700398
+STU1401,Engineering,1,7.92,1,4,0,0.75,1.0,6,placed_6m,728430
+STU1402,Engineering,3,6.02,3,0,1,0.75,0.45,3,placed_3m,739608
+STU1403,Nursing,2,9.09,0,3,0,0.6,0.7,6,placed_6m,470068
+STU1404,Data Science,3,6.21,2,0,1,0.85,0.45,6,placed_6m,859059
+STU1405,MBA,3,7.44,0,3,1,0.7,0.45,12,placed_12m,707476
+STU1406,Law,3,8.07,3,3,1,0.45,0.45,12,placed_12m,615759
+STU1407,Law,3,6.57,1,4,1,0.45,0.45,24,delayed,560469
+STU1408,Data Science,2,8.14,2,2,0,0.85,0.7,12,placed_12m,998228
+STU1409,Law,1,5.85,2,1,0,0.45,1.0,6,placed_6m,616269
+STU1410,Engineering,2,8.8,0,1,1,0.75,0.7,6,placed_6m,794276
+STU1411,Engineering,1,7.22,0,1,1,0.75,1.0,6,placed_6m,809584
+STU1412,Engineering,1,6.54,2,2,1,0.75,1.0,3,placed_3m,758467
+STU1413,Engineering,2,6.87,1,0,1,0.75,0.7,12,placed_12m,709453
+STU1414,Data Science,3,8.09,0,1,1,0.85,0.45,12,placed_12m,853952
+STU1415,Arts,2,6.56,1,0,0,0.35,0.7,12,placed_12m,362367
+STU1416,Engineering,2,6.38,1,2,1,0.75,0.7,6,placed_6m,650147
+STU1417,Engineering,3,6.96,0,2,1,0.75,0.45,12,placed_12m,592882
+STU1418,MBA,2,5.91,1,4,1,0.7,0.7,24,delayed,786137
+STU1419,Arts,1,9.2,0,1,1,0.35,1.0,3,placed_3m,398947
+STU1420,MBA,3,6.58,1,4,0,0.7,0.45,24,delayed,921618
+STU1421,Data Science,2,8.11,3,1,0,0.85,0.7,3,placed_3m,1169569
+STU1422,Engineering,3,7.43,3,2,1,0.75,0.45,6,placed_6m,767320
+STU1423,Engineering,1,6.12,2,2,1,0.75,1.0,6,placed_6m,728084
+STU1424,Arts,3,7.19,0,3,1,0.35,0.45,12,placed_12m,277661
+STU1425,Arts,2,8.06,3,3,0,0.35,0.7,6,placed_6m,391652
+STU1426,Engineering,2,6.99,1,2,0,0.75,0.7,6,placed_6m,666425
+STU1427,Arts,2,8.51,0,2,1,0.35,0.7,12,placed_12m,367769
+STU1428,Data Science,3,8.32,3,0,0,0.85,0.45,3,placed_3m,1218434
+STU1429,Law,2,8.21,2,0,1,0.45,0.7,6,placed_6m,651914
+STU1430,MBA,2,6.69,2,4,1,0.7,0.7,6,placed_6m,993902
+STU1431,Data Science,3,6.01,2,3,1,0.85,0.45,3,placed_3m,1151651
+STU1432,MBA,3,6.53,0,3,0,0.7,0.45,12,placed_12m,770424
+STU1433,Data Science,2,7.42,0,2,1,0.85,0.7,12,placed_12m,963980
+STU1434,Engineering,3,7.8,2,2,0,0.75,0.45,3,placed_3m,624776
+STU1435,Engineering,2,4.81,0,4,0,0.75,0.7,6,placed_6m,718582
+STU1436,MBA,2,7.19,1,3,0,0.7,0.7,6,placed_6m,851409
+STU1437,Nursing,2,7.37,2,0,0,0.6,0.7,6,placed_6m,495392
+STU1438,Engineering,3,6.89,2,1,1,0.75,0.45,12,placed_12m,640260
+STU1439,Data Science,3,8.62,1,4,0,0.85,0.45,6,placed_6m,1183423
+STU1440,Arts,2,7.66,2,1,0,0.35,0.7,12,placed_12m,324479
+STU1441,Engineering,2,8.64,2,0,1,0.75,0.7,6,placed_6m,708533
+STU1442,Data Science,2,6.96,2,0,0,0.85,0.7,3,placed_3m,1063672
+STU1443,MBA,3,8.23,0,1,1,0.7,0.45,12,placed_12m,813014
+STU1444,Law,3,9.0,1,4,0,0.45,0.45,3,placed_3m,632357
+STU1445,Engineering,2,8.64,1,1,0,0.75,0.7,6,placed_6m,743318
+STU1446,Data Science,3,6.0,0,4,1,0.85,0.45,24,delayed,936133
+STU1447,Law,3,6.92,1,4,0,0.45,0.45,12,placed_12m,535549
+STU1448,Arts,2,6.82,0,2,1,0.35,0.7,24,delayed,287786
+STU1449,Data Science,1,7.74,1,3,0,0.85,1.0,6,placed_6m,1089951
+STU1450,MBA,2,7.95,3,3,0,0.7,0.7,3,placed_3m,1083820
+STU1451,Data Science,3,6.28,0,0,0,0.85,0.45,6,placed_6m,953437
+STU1452,Law,3,7.27,2,2,0,0.45,0.45,12,placed_12m,493348
+STU1453,Data Science,2,4.98,2,3,0,0.85,0.7,3,placed_3m,951933
+STU1454,Engineering,3,8.79,0,4,1,0.75,0.45,12,placed_12m,697233
+STU1455,Arts,1,6.64,3,4,1,0.35,1.0,3,placed_3m,398496
+STU1456,Data Science,2,7.26,1,1,0,0.85,0.7,12,placed_12m,1119331
+STU1457,Data Science,3,6.86,1,1,1,0.85,0.45,3,placed_3m,932683
+STU1458,Engineering,3,8.46,2,4,1,0.75,0.45,3,placed_3m,850149
+STU1459,Data Science,2,4.08,1,4,1,0.85,0.7,6,placed_6m,911049
+STU1460,MBA,2,7.18,2,1,1,0.7,0.7,12,placed_12m,967844
+STU1461,Data Science,1,7.08,0,3,1,0.85,1.0,12,placed_12m,978101
+STU1462,Engineering,2,6.7,2,0,0,0.75,0.7,3,placed_3m,596168
+STU1463,Data Science,2,9.1,1,1,0,0.85,0.7,12,placed_12m,1026541
+STU1464,Arts,1,6.22,2,3,1,0.35,1.0,6,placed_6m,267494
+STU1465,Engineering,3,8.05,0,3,1,0.75,0.45,24,delayed,756849
+STU1466,Arts,2,7.59,2,3,1,0.35,0.7,12,placed_12m,343958
+STU1467,MBA,3,8.59,2,2,1,0.7,0.45,6,placed_6m,862184
+STU1468,Law,3,6.47,1,2,1,0.45,0.45,12,placed_12m,553923
+STU1469,Nursing,1,6.39,2,3,1,0.6,1.0,12,placed_12m,466070
+STU1470,Data Science,1,8.41,1,4,1,0.85,1.0,3,placed_3m,1212337
+STU1471,Nursing,3,7.67,3,2,1,0.6,0.45,3,placed_3m,499283
+STU1472,Law,2,5.5,1,1,0,0.45,0.7,12,placed_12m,525084
+STU1473,MBA,3,6.61,2,2,0,0.7,0.45,6,placed_6m,790588
+STU1474,MBA,3,7.63,2,4,0,0.7,0.45,6,placed_6m,931229
+STU1475,Data Science,3,8.12,1,0,1,0.85,0.45,3,placed_3m,1113612
+STU1476,Law,3,6.45,0,2,0,0.45,0.45,12,placed_12m,522850
+STU1477,Nursing,2,4.0,1,3,1,0.6,0.7,6,placed_6m,450314
+STU1478,Nursing,2,7.78,2,3,0,0.6,0.7,12,placed_12m,450458
+STU1479,MBA,2,5.86,0,3,1,0.7,0.7,6,placed_6m,748795
+STU1480,Law,1,4.98,1,0,0,0.45,1.0,6,placed_6m,576663
+STU1481,Engineering,2,4.08,2,4,0,0.75,0.7,6,placed_6m,596636
+STU1482,Data Science,2,8.1,1,1,1,0.85,0.7,3,placed_3m,1135344
+STU1483,Engineering,3,7.34,2,4,1,0.75,0.45,6,placed_6m,656759
+STU1484,MBA,2,6.95,0,0,1,0.7,0.7,6,placed_6m,819802
+STU1485,MBA,2,8.73,0,3,1,0.7,0.7,6,placed_6m,1023872
+STU1486,MBA,2,7.9,2,4,0,0.7,0.7,3,placed_3m,909766
+STU1487,Data Science,1,8.98,0,1,0,0.85,1.0,3,placed_3m,1105864
+STU1488,MBA,1,5.67,1,3,1,0.7,1.0,12,placed_12m,926540
+STU1489,MBA,2,7.16,2,1,1,0.7,0.7,12,placed_12m,829262
+STU1490,Engineering,1,5.42,1,2,1,0.75,1.0,24,delayed,629387
+STU1491,MBA,2,6.95,3,1,1,0.7,0.7,3,placed_3m,957944
+STU1492,Engineering,3,6.93,3,3,1,0.75,0.45,6,placed_6m,749339
+STU1493,Engineering,3,7.89,1,2,0,0.75,0.45,12,placed_12m,744261
+STU1494,Data Science,3,7.25,0,3,1,0.85,0.45,24,delayed,893455
+STU1495,Data Science,2,7.89,2,3,1,0.85,0.7,6,placed_6m,1157521
+STU1496,Data Science,3,7.97,1,2,1,0.85,0.45,3,placed_3m,1015635
+STU1497,MBA,3,9.57,0,1,0,0.7,0.45,6,placed_6m,868176
+STU1498,MBA,1,6.85,2,0,0,0.7,1.0,6,placed_6m,1007311
+STU1499,Law,3,6.16,0,0,0,0.45,0.45,24,delayed,477139
+STU1500,Data Science,2,7.47,2,0,0,0.85,0.7,6,placed_6m,1115961
+STU1501,MBA,3,6.32,0,0,1,0.7,0.45,12,placed_12m,782490
+STU1502,Engineering,3,8.83,0,4,0,0.75,0.45,12,placed_12m,642508
+STU1503,MBA,1,6.89,0,0,0,0.7,1.0,12,placed_12m,935032
+STU1504,MBA,3,6.58,3,2,0,0.7,0.45,3,placed_3m,905599
+STU1505,MBA,2,6.68,2,0,1,0.7,0.7,3,placed_3m,769193
+STU1506,Data Science,3,7.99,2,3,1,0.85,0.45,3,placed_3m,1099910
+STU1507,Data Science,2,7.03,1,0,0,0.85,0.7,12,placed_12m,979037
+STU1508,Data Science,3,6.49,1,1,0,0.85,0.45,12,placed_12m,1044726
+STU1509,Nursing,1,9.03,0,2,0,0.6,1.0,12,placed_12m,441165
+STU1510,Law,2,6.26,1,2,1,0.45,0.7,6,placed_6m,547612
+STU1511,Nursing,1,7.24,1,4,0,0.6,1.0,6,placed_6m,479465
+STU1512,Arts,3,7.92,2,3,1,0.35,0.45,6,placed_6m,334429
+STU1513,Engineering,3,5.41,1,2,1,0.75,0.45,6,placed_6m,655287
+STU1514,Engineering,3,7.73,3,1,0,0.75,0.45,3,placed_3m,659214
+STU1515,Engineering,3,6.04,0,0,1,0.75,0.45,12,placed_12m,689473
+STU1516,Data Science,1,8.11,3,2,0,0.85,1.0,3,placed_3m,1251913
+STU1517,Law,2,6.14,0,1,1,0.45,0.7,24,delayed,577915
+STU1518,Engineering,1,7.96,1,0,0,0.75,1.0,6,placed_6m,803324
+STU1519,Arts,2,8.42,1,4,1,0.35,0.7,6,placed_6m,344603
+STU1520,Engineering,2,8.15,1,2,1,0.75,0.7,12,placed_12m,661785
+STU1521,Arts,2,7.48,1,2,1,0.35,0.7,24,delayed,308580
+STU1522,MBA,2,6.95,1,1,0,0.7,0.7,24,delayed,935832
+STU1523,Engineering,1,6.57,1,3,0,0.75,1.0,12,placed_12m,778479
+STU1524,MBA,1,8.82,2,4,1,0.7,1.0,3,placed_3m,976316
+STU1525,Engineering,1,6.43,2,3,1,0.75,1.0,3,placed_3m,603888
+STU1526,Engineering,3,6.06,2,2,1,0.75,0.45,6,placed_6m,648067
+STU1527,MBA,3,7.93,0,3,0,0.7,0.45,12,placed_12m,816434
+STU1528,Law,3,6.32,2,0,0,0.45,0.45,12,placed_12m,538948
+STU1529,Data Science,2,6.15,1,4,1,0.85,0.7,12,placed_12m,1033526
+STU1530,MBA,2,5.61,1,3,0,0.7,0.7,3,placed_3m,875836
+STU1531,Data Science,3,6.67,1,0,0,0.85,0.45,3,placed_3m,1061772
+STU1532,Nursing,2,7.11,1,1,0,0.6,0.7,24,delayed,442487
+STU1533,Engineering,2,7.47,0,3,1,0.75,0.7,6,placed_6m,604085
+STU1534,MBA,2,8.25,0,4,1,0.7,0.7,6,placed_6m,871894
+STU1535,Engineering,1,7.78,0,0,1,0.75,1.0,6,placed_6m,846483
+STU1536,Engineering,2,6.99,2,3,0,0.75,0.7,6,placed_6m,734163
+STU1537,Data Science,2,6.98,2,1,1,0.85,0.7,6,placed_6m,1100422
+STU1538,Engineering,3,7.76,3,3,1,0.75,0.45,3,placed_3m,750340
+STU1539,Data Science,1,8.6,2,0,0,0.85,1.0,3,placed_3m,1236274
+STU1540,Nursing,2,7.34,0,3,1,0.6,0.7,12,placed_12m,357693
+STU1541,Engineering,3,6.68,3,4,1,0.75,0.45,6,placed_6m,685521
+STU1542,Data Science,1,6.11,2,2,0,0.85,1.0,6,placed_6m,1085874
+STU1543,Engineering,2,5.61,1,0,1,0.75,0.7,24,delayed,693820
+STU1544,Arts,3,7.93,1,0,0,0.35,0.45,12,placed_12m,321661
+STU1545,MBA,1,7.84,3,0,1,0.7,1.0,6,placed_6m,898175
+STU1546,Law,1,7.84,1,0,0,0.45,1.0,12,placed_12m,642247
+STU1547,Data Science,2,7.06,3,3,0,0.85,0.7,3,placed_3m,1055130
+STU1548,Engineering,2,8.75,0,4,0,0.75,0.7,3,placed_3m,674273
+STU1549,Data Science,2,6.67,0,1,1,0.85,0.7,12,placed_12m,928476
+STU1550,Arts,3,8.25,1,4,1,0.35,0.45,12,placed_12m,337196
+STU1551,Data Science,1,7.16,1,0,1,0.85,1.0,6,placed_6m,1196463
+STU1552,Law,2,6.53,2,3,1,0.45,0.7,6,placed_6m,604670
+STU1553,Law,2,7.85,3,3,1,0.45,0.7,3,placed_3m,663450
+STU1554,Engineering,1,7.65,1,0,0,0.75,1.0,6,placed_6m,774724
+STU1555,Engineering,2,7.59,0,3,1,0.75,0.7,6,placed_6m,699143
+STU1556,Data Science,2,7.29,2,0,0,0.85,0.7,6,placed_6m,1137952
+STU1557,MBA,2,7.16,2,4,0,0.7,0.7,3,placed_3m,761122
+STU1558,Law,1,9.83,0,2,1,0.45,1.0,3,placed_3m,671998
+STU1559,Arts,2,8.5,1,3,0,0.35,0.7,6,placed_6m,322664
+STU1560,MBA,2,8.0,2,0,0,0.7,0.7,3,placed_3m,1007403
+STU1561,Engineering,3,7.32,2,0,1,0.75,0.45,3,placed_3m,692875
+STU1562,Nursing,1,8.31,1,3,1,0.6,1.0,3,placed_3m,492082
+STU1563,Engineering,2,7.77,1,1,1,0.75,0.7,6,placed_6m,647350
+STU1564,Law,2,7.23,3,0,1,0.45,0.7,6,placed_6m,660143
+STU1565,MBA,3,6.87,2,3,1,0.7,0.45,6,placed_6m,890742
+STU1566,Data Science,2,7.11,1,0,1,0.85,0.7,12,placed_12m,1078594
+STU1567,Engineering,3,4.0,1,1,0,0.75,0.45,24,delayed,514974
+STU1568,Data Science,3,7.43,2,2,0,0.85,0.45,6,placed_6m,993472
+STU1569,MBA,3,6.66,0,1,1,0.7,0.45,24,delayed,780766
+STU1570,Data Science,2,8.95,0,4,0,0.85,0.7,6,placed_6m,1052583
+STU1571,Engineering,2,7.22,1,3,1,0.75,0.7,12,placed_12m,716513
+STU1572,Nursing,3,5.89,1,1,1,0.6,0.45,6,placed_6m,335375
+STU1573,Law,3,7.15,2,2,0,0.45,0.45,3,placed_3m,559334
+STU1574,Engineering,3,6.05,0,0,0,0.75,0.45,12,placed_12m,696722
+STU1575,Engineering,2,7.72,2,3,0,0.75,0.7,6,placed_6m,759217
+STU1576,Engineering,1,7.52,1,1,0,0.75,1.0,3,placed_3m,759857
+STU1577,Data Science,2,8.25,0,2,0,0.85,0.7,3,placed_3m,1219724
+STU1578,Data Science,3,6.33,0,1,1,0.85,0.45,12,placed_12m,760162
+STU1579,Data Science,2,7.24,3,4,1,0.85,0.7,3,placed_3m,1062356
+STU1580,Engineering,2,5.7,2,3,1,0.75,0.7,6,placed_6m,658197
+STU1581,MBA,3,7.97,0,0,0,0.7,0.45,12,placed_12m,886687
+STU1582,Data Science,2,7.77,2,2,0,0.85,0.7,6,placed_6m,1172481
+STU1583,MBA,3,7.75,2,1,1,0.7,0.45,3,placed_3m,838804
+STU1584,Arts,2,7.2,3,3,1,0.35,0.7,6,placed_6m,368879
+STU1585,Engineering,2,7.66,1,1,1,0.75,0.7,6,placed_6m,696828
+STU1586,Data Science,2,8.96,2,3,1,0.85,0.7,3,placed_3m,1256027
+STU1587,MBA,3,6.89,0,4,1,0.7,0.45,24,delayed,713781
+STU1588,MBA,1,7.35,1,1,1,0.7,1.0,6,placed_6m,921445
+STU1589,Nursing,1,6.01,3,4,0,0.6,1.0,6,placed_6m,455448
+STU1590,Data Science,3,6.24,1,2,1,0.85,0.45,12,placed_12m,1030555
+STU1591,Arts,1,7.31,1,4,0,0.35,1.0,3,placed_3m,336179
+STU1592,Engineering,2,8.41,0,3,1,0.75,0.7,12,placed_12m,709392
+STU1593,Engineering,2,6.92,2,2,1,0.75,0.7,6,placed_6m,738369
+STU1594,Nursing,2,6.94,2,1,0,0.6,0.7,3,placed_3m,471603
+STU1595,Data Science,2,6.75,1,1,0,0.85,0.7,6,placed_6m,1097469
+STU1596,Engineering,2,6.61,3,3,0,0.75,0.7,3,placed_3m,738737
+STU1597,Engineering,2,7.52,0,0,0,0.75,0.7,6,placed_6m,672158
+STU1598,Engineering,2,5.55,1,0,0,0.75,0.7,12,placed_12m,628804
+STU1599,Law,3,8.61,3,1,0,0.45,0.45,6,placed_6m,630002
+STU1600,Engineering,1,6.47,1,3,0,0.75,1.0,3,placed_3m,732271
+STU1601,MBA,2,7.99,1,0,0,0.7,0.7,12,placed_12m,889698
+STU1602,Engineering,1,5.8,1,4,1,0.75,1.0,3,placed_3m,701261
+STU1603,MBA,2,7.94,2,1,0,0.7,0.7,3,placed_3m,844366
+STU1604,Engineering,2,7.94,0,4,0,0.75,0.7,6,placed_6m,736707
+STU1605,Data Science,1,7.62,3,3,1,0.85,1.0,3,placed_3m,1205433
+STU1606,Engineering,3,6.11,2,4,1,0.75,0.45,3,placed_3m,711523
+STU1607,Law,2,7.47,0,0,1,0.45,0.7,6,placed_6m,575618
+STU1608,Engineering,3,5.9,2,0,0,0.75,0.45,3,placed_3m,573766
+STU1609,Data Science,3,6.92,1,2,1,0.85,0.45,6,placed_6m,970430
+STU1610,Law,2,8.33,1,1,1,0.45,0.7,6,placed_6m,605728
+STU1611,Data Science,1,8.08,2,3,1,0.85,1.0,3,placed_3m,1236300
+STU1612,Data Science,2,7.22,3,1,1,0.85,0.7,6,placed_6m,965441
+STU1613,MBA,3,6.13,0,4,1,0.7,0.45,6,placed_6m,777884
+STU1614,MBA,2,7.91,1,3,1,0.7,0.7,12,placed_12m,926201
+STU1615,Data Science,1,7.22,1,3,1,0.85,1.0,3,placed_3m,1066707
+STU1616,Arts,2,4.65,1,0,1,0.35,0.7,12,placed_12m,290272
+STU1617,Data Science,3,8.06,1,4,1,0.85,0.45,6,placed_6m,1002343
+STU1618,Data Science,3,7.17,0,0,1,0.85,0.45,24,delayed,891271
+STU1619,Nursing,1,8.52,2,0,0,0.6,1.0,6,placed_6m,493098
+STU1620,MBA,3,6.0,1,2,1,0.7,0.45,6,placed_6m,752803
+STU1621,Engineering,2,4.0,0,0,0,0.75,0.7,24,delayed,596813
+STU1622,Data Science,2,7.51,2,1,1,0.85,0.7,12,placed_12m,1033398
+STU1623,Arts,3,7.52,2,3,1,0.35,0.45,12,placed_12m,303931
+STU1624,Engineering,2,5.34,1,0,0,0.75,0.7,3,placed_3m,735318
+STU1625,Data Science,2,6.12,1,1,1,0.85,0.7,12,placed_12m,1063237
+STU1626,Engineering,1,10.0,2,4,0,0.75,1.0,3,placed_3m,756897
+STU1627,Data Science,3,6.86,1,3,0,0.85,0.45,3,placed_3m,944183
+STU1628,Engineering,3,8.0,0,4,0,0.75,0.45,12,placed_12m,680759
+STU1629,MBA,2,6.48,2,1,0,0.7,0.7,3,placed_3m,900398
+STU1630,Nursing,3,4.9,0,4,0,0.6,0.45,12,placed_12m,319501
+STU1631,MBA,1,7.01,0,4,1,0.7,1.0,6,placed_6m,960615
+STU1632,Data Science,2,6.91,0,4,1,0.85,0.7,12,placed_12m,1058768
+STU1633,Nursing,2,6.76,0,0,0,0.6,0.7,6,placed_6m,438542
+STU1634,Arts,1,7.07,0,0,1,0.35,1.0,12,placed_12m,360425
+STU1635,Engineering,2,7.49,3,0,0,0.75,0.7,3,placed_3m,776680
+STU1636,MBA,3,7.03,1,3,0,0.7,0.45,3,placed_3m,866035
+STU1637,Engineering,1,5.81,0,1,0,0.75,1.0,6,placed_6m,751556
+STU1638,Arts,2,7.73,0,0,1,0.35,0.7,12,placed_12m,347154
+STU1639,Arts,2,5.06,3,4,1,0.35,0.7,6,placed_6m,297629
+STU1640,Data Science,2,4.94,1,4,0,0.85,0.7,3,placed_3m,1003472
+STU1641,Law,3,8.01,1,4,0,0.45,0.45,3,placed_3m,557298
+STU1642,Data Science,2,7.76,2,4,0,0.85,0.7,6,placed_6m,1145146
+STU1643,Data Science,2,7.14,1,2,1,0.85,0.7,6,placed_6m,1085225
+STU1644,Engineering,3,5.67,1,3,1,0.75,0.45,24,delayed,537543
+STU1645,Nursing,1,6.42,0,1,0,0.6,1.0,6,placed_6m,436550
+STU1646,Engineering,2,6.91,1,1,1,0.75,0.7,12,placed_12m,699061
+STU1647,Law,2,5.44,1,0,0,0.45,0.7,24,delayed,505327
+STU1648,Nursing,2,6.39,2,2,1,0.6,0.7,12,placed_12m,446954
+STU1649,Nursing,3,7.92,1,1,1,0.6,0.45,6,placed_6m,464049
+STU1650,Engineering,3,8.77,1,3,1,0.75,0.45,12,placed_12m,710632
+STU1651,MBA,2,6.74,0,4,1,0.7,0.7,24,delayed,821174
+STU1652,Engineering,3,8.03,0,0,1,0.75,0.45,6,placed_6m,743868
+STU1653,MBA,1,5.09,1,3,0,0.7,1.0,24,delayed,844436
+STU1654,Engineering,1,7.93,3,1,0,0.75,1.0,3,placed_3m,813651
+STU1655,Arts,2,6.32,1,2,1,0.35,0.7,12,placed_12m,290491
+STU1656,Data Science,2,7.54,2,0,0,0.85,0.7,12,placed_12m,1136027
+STU1657,MBA,2,6.93,1,1,0,0.7,0.7,3,placed_3m,892401
+STU1658,MBA,2,8.65,0,0,1,0.7,0.7,12,placed_12m,975241
+STU1659,MBA,3,6.24,0,1,1,0.7,0.45,6,placed_6m,782367
+STU1660,Data Science,2,7.89,1,4,1,0.85,0.7,6,placed_6m,954045
+STU1661,Data Science,2,6.89,0,2,1,0.85,0.7,12,placed_12m,876255
+STU1662,Arts,1,7.03,0,4,1,0.35,1.0,12,placed_12m,345841
+STU1663,MBA,1,7.0,2,1,0,0.7,1.0,3,placed_3m,911016
+STU1664,Arts,2,6.27,0,3,1,0.35,0.7,12,placed_12m,311760
+STU1665,Law,2,7.18,1,4,1,0.45,0.7,24,delayed,570848
+STU1666,Engineering,3,7.13,1,3,0,0.75,0.45,6,placed_6m,662424
+STU1667,Arts,1,7.47,1,1,0,0.35,1.0,12,placed_12m,342689
+STU1668,Engineering,1,7.29,1,2,0,0.75,1.0,6,placed_6m,699749
+STU1669,Law,2,8.08,1,3,1,0.45,0.7,3,placed_3m,609855
+STU1670,MBA,2,8.22,1,1,1,0.7,0.7,3,placed_3m,885837
+STU1671,Law,1,6.04,2,3,1,0.45,1.0,6,placed_6m,588300
+STU1672,Law,3,8.16,2,4,1,0.45,0.45,12,placed_12m,581778
+STU1673,Law,1,5.9,0,1,0,0.45,1.0,6,placed_6m,557058
+STU1674,Nursing,2,7.85,0,4,1,0.6,0.7,12,placed_12m,467820
+STU1675,MBA,2,7.88,3,0,1,0.7,0.7,3,placed_3m,950589
+STU1676,Engineering,1,5.1,1,1,0,0.75,1.0,6,placed_6m,724564
+STU1677,MBA,2,7.3,1,3,1,0.7,0.7,12,placed_12m,964856
+STU1678,Engineering,3,6.68,1,0,0,0.75,0.45,3,placed_3m,701826
+STU1679,Data Science,2,6.37,0,4,1,0.85,0.7,6,placed_6m,1024672
+STU1680,MBA,3,8.69,1,4,1,0.7,0.45,12,placed_12m,906582
+STU1681,Arts,1,6.48,1,3,1,0.35,1.0,6,placed_6m,353950
+STU1682,Data Science,3,6.31,0,0,1,0.85,0.45,24,delayed,911518
+STU1683,Law,2,7.28,1,2,0,0.45,0.7,6,placed_6m,626881
+STU1684,Engineering,3,7.95,2,3,1,0.75,0.45,6,placed_6m,744601
+STU1685,Law,2,7.04,1,4,0,0.45,0.7,6,placed_6m,567127
+STU1686,Arts,3,8.48,0,1,1,0.35,0.45,24,delayed,332029
+STU1687,MBA,2,7.78,1,0,1,0.7,0.7,3,placed_3m,910204
+STU1688,Data Science,1,4.8,2,2,1,0.85,1.0,3,placed_3m,1027912
+STU1689,Nursing,1,6.62,2,1,0,0.6,1.0,6,placed_6m,454841
+STU1690,Engineering,3,6.58,2,0,1,0.75,0.45,12,placed_12m,674428
+STU1691,Data Science,2,7.73,0,3,1,0.85,0.7,6,placed_6m,1119223
+STU1692,MBA,3,4.31,2,3,1,0.7,0.45,12,placed_12m,801312
+STU1693,Engineering,2,10.0,2,0,0,0.75,0.7,3,placed_3m,827212
+STU1694,MBA,2,7.78,0,2,0,0.7,0.7,12,placed_12m,901633
+STU1695,Engineering,1,7.36,1,0,0,0.75,1.0,12,placed_12m,796954
+STU1696,Engineering,3,8.5,1,1,1,0.75,0.45,12,placed_12m,696793
+STU1697,Engineering,3,9.78,2,1,1,0.75,0.45,12,placed_12m,708800
+STU1698,Arts,3,8.16,0,3,1,0.35,0.45,3,placed_3m,348804
+STU1699,Data Science,2,8.24,1,0,0,0.85,0.7,6,placed_6m,1062572
+STU1700,Arts,2,7.34,3,3,0,0.35,0.7,6,placed_6m,333049
+STU1701,MBA,3,7.04,2,2,1,0.7,0.45,6,placed_6m,752015
+STU1702,MBA,2,6.68,3,1,1,0.7,0.7,3,placed_3m,947462
+STU1703,Data Science,3,6.29,3,4,1,0.85,0.45,6,placed_6m,911112
+STU1704,MBA,3,6.44,0,4,1,0.7,0.45,24,delayed,714145
+STU1705,Engineering,3,5.71,2,0,1,0.75,0.45,6,placed_6m,676167
+STU1706,Data Science,3,7.12,1,0,1,0.85,0.45,6,placed_6m,1056972
+STU1707,Engineering,2,5.35,2,4,1,0.75,0.7,6,placed_6m,635624
+STU1708,Data Science,2,7.41,1,0,1,0.85,0.7,6,placed_6m,1053541
+STU1709,Data Science,3,7.16,3,1,0,0.85,0.45,3,placed_3m,1009749
+STU1710,Engineering,1,7.36,2,2,0,0.75,1.0,6,placed_6m,737025
+STU1711,Engineering,3,6.63,2,2,0,0.75,0.45,6,placed_6m,688047
+STU1712,Nursing,3,10.0,0,3,1,0.6,0.45,12,placed_12m,446449
+STU1713,MBA,2,8.7,0,1,0,0.7,0.7,12,placed_12m,885201
+STU1714,Engineering,3,5.83,2,0,0,0.75,0.45,6,placed_6m,581124
+STU1715,Arts,2,7.46,0,0,0,0.35,0.7,6,placed_6m,347464
+STU1716,Engineering,2,6.53,2,3,1,0.75,0.7,3,placed_3m,730668
+STU1717,Data Science,1,6.08,0,3,0,0.85,1.0,12,placed_12m,1073372
+STU1718,Arts,2,5.73,2,0,1,0.35,0.7,12,placed_12m,341935
+STU1719,Engineering,2,7.68,1,0,0,0.75,0.7,24,delayed,654652
+STU1720,Engineering,2,6.45,2,1,0,0.75,0.7,6,placed_6m,682811
+STU1721,Engineering,3,8.26,2,3,1,0.75,0.45,3,placed_3m,637236
+STU1722,MBA,3,8.29,1,1,0,0.7,0.45,12,placed_12m,1060668
+STU1723,Engineering,1,8.71,0,0,0,0.75,1.0,12,placed_12m,749159
+STU1724,Data Science,2,6.26,0,4,0,0.85,0.7,6,placed_6m,1056345
+STU1725,Engineering,3,7.72,1,4,1,0.75,0.45,12,placed_12m,621255
+STU1726,Data Science,1,7.9,1,0,1,0.85,1.0,3,placed_3m,1216421
+STU1727,Arts,1,6.68,2,3,0,0.35,1.0,6,placed_6m,388274
+STU1728,Law,1,6.35,1,4,0,0.45,1.0,12,placed_12m,585531
+STU1729,Data Science,2,8.97,1,3,1,0.85,0.7,6,placed_6m,1060637
+STU1730,MBA,1,7.45,1,4,1,0.7,1.0,12,placed_12m,914806
+STU1731,Data Science,3,7.9,0,3,1,0.85,0.45,24,delayed,816153
+STU1732,Data Science,2,6.3,1,4,1,0.85,0.7,6,placed_6m,1010329
+STU1733,MBA,2,5.86,3,3,1,0.7,0.7,3,placed_3m,931775
+STU1734,Engineering,2,6.57,2,1,1,0.75,0.7,6,placed_6m,701991
+STU1735,Law,2,7.06,1,3,1,0.45,0.7,12,placed_12m,564390
+STU1736,MBA,3,6.03,1,1,1,0.7,0.45,12,placed_12m,819005
+STU1737,Engineering,3,7.19,2,1,0,0.75,0.45,12,placed_12m,713668
+STU1738,MBA,3,5.34,1,0,1,0.7,0.45,12,placed_12m,662004
+STU1739,MBA,2,5.97,0,1,1,0.7,0.7,12,placed_12m,802877
+STU1740,Law,3,7.94,0,2,0,0.45,0.45,12,placed_12m,653389
+STU1741,Nursing,3,7.86,1,1,1,0.6,0.45,6,placed_6m,397951
+STU1742,Nursing,3,6.77,3,3,1,0.6,0.45,6,placed_6m,440463
+STU1743,Engineering,1,6.08,2,1,1,0.75,1.0,3,placed_3m,821867
+STU1744,MBA,1,6.07,0,3,1,0.7,1.0,6,placed_6m,921995
+STU1745,MBA,2,6.79,0,3,1,0.7,0.7,12,placed_12m,797548
+STU1746,Engineering,3,7.91,2,2,0,0.75,0.45,6,placed_6m,723663
+STU1747,Engineering,2,8.22,2,1,1,0.75,0.7,6,placed_6m,753030
+STU1748,Nursing,2,6.65,2,1,1,0.6,0.7,12,placed_12m,419714
+STU1749,Engineering,3,5.93,2,4,0,0.75,0.45,12,placed_12m,643370
+STU1750,Data Science,3,7.49,0,4,0,0.85,0.45,24,delayed,938100
+STU1751,Engineering,3,6.29,2,0,1,0.75,0.45,6,placed_6m,670735
+STU1752,Engineering,2,6.63,2,3,0,0.75,0.7,6,placed_6m,669475
+STU1753,Engineering,3,8.66,1,2,1,0.75,0.45,6,placed_6m,654956
+STU1754,Arts,2,8.11,2,4,0,0.35,0.7,12,placed_12m,345479
+STU1755,Law,1,7.37,0,1,0,0.45,1.0,6,placed_6m,671699
+STU1756,Arts,1,5.8,0,0,1,0.35,1.0,12,placed_12m,314053
+STU1757,MBA,2,7.43,0,2,0,0.7,0.7,6,placed_6m,841949
+STU1758,Engineering,2,8.37,0,1,1,0.75,0.7,3,placed_3m,757513
+STU1759,Data Science,3,6.79,1,1,1,0.85,0.45,6,placed_6m,978757
+STU1760,MBA,1,8.69,1,3,0,0.7,1.0,3,placed_3m,1095627
+STU1761,Law,3,8.62,1,3,0,0.45,0.45,24,delayed,577060
+STU1762,Engineering,2,9.03,1,4,0,0.75,0.7,3,placed_3m,794777
+STU1763,MBA,2,7.54,1,4,0,0.7,0.7,6,placed_6m,845440
+STU1764,Engineering,2,7.85,0,1,1,0.75,0.7,12,placed_12m,718532
+STU1765,MBA,2,8.76,2,1,1,0.7,0.7,3,placed_3m,982653
+STU1766,Nursing,2,7.69,1,4,0,0.6,0.7,6,placed_6m,452549
+STU1767,MBA,2,6.65,1,4,1,0.7,0.7,6,placed_6m,827343
+STU1768,MBA,1,6.71,2,1,0,0.7,1.0,3,placed_3m,896028
+STU1769,MBA,1,7.46,2,2,0,0.7,1.0,3,placed_3m,979594
+STU1770,MBA,2,5.78,2,1,0,0.7,0.7,12,placed_12m,878250
+STU1771,Nursing,3,7.04,1,2,1,0.6,0.45,12,placed_12m,414306
+STU1772,Law,2,8.41,0,2,1,0.45,0.7,24,delayed,591645
+STU1773,Arts,3,4.79,2,1,1,0.35,0.45,6,placed_6m,288572
+STU1774,Nursing,3,8.89,0,0,0,0.6,0.45,12,placed_12m,443565
+STU1775,MBA,3,8.43,1,4,0,0.7,0.45,12,placed_12m,865521
+STU1776,Data Science,3,6.69,0,3,1,0.85,0.45,12,placed_12m,946035
+STU1777,MBA,2,7.8,2,1,1,0.7,0.7,6,placed_6m,1087422
+STU1778,Engineering,3,7.2,0,2,1,0.75,0.45,12,placed_12m,660062
+STU1779,Law,3,8.55,3,1,0,0.45,0.45,6,placed_6m,653386
+STU1780,Engineering,2,8.28,2,4,0,0.75,0.7,6,placed_6m,775953
+STU1781,Arts,2,5.66,1,2,1,0.35,0.7,24,delayed,289885
+STU1782,MBA,1,7.85,2,3,1,0.7,1.0,3,placed_3m,1054676
+STU1783,Data Science,3,6.97,2,3,1,0.85,0.45,6,placed_6m,1007607
+STU1784,Data Science,3,7.29,2,3,1,0.85,0.45,6,placed_6m,1118814
+STU1785,Law,1,6.4,1,0,1,0.45,1.0,6,placed_6m,582023
+STU1786,Data Science,2,9.12,2,2,1,0.85,0.7,3,placed_3m,1106789
+STU1787,Data Science,2,8.34,1,2,1,0.85,0.7,6,placed_6m,1131541
+STU1788,Engineering,1,6.39,3,0,1,0.75,1.0,3,placed_3m,704813
+STU1789,Data Science,3,5.73,1,2,1,0.85,0.45,12,placed_12m,970002
+STU1790,Engineering,2,6.78,1,0,0,0.75,0.7,6,placed_6m,632453
+STU1791,Nursing,1,7.68,2,1,0,0.6,1.0,3,placed_3m,482141
+STU1792,Data Science,2,7.46,2,4,1,0.85,0.7,3,placed_3m,998180
+STU1793,Data Science,3,8.58,1,3,1,0.85,0.45,12,placed_12m,1262870
+STU1794,Engineering,1,8.07,0,0,1,0.75,1.0,3,placed_3m,668927
+STU1795,Engineering,3,8.27,1,0,0,0.75,0.45,6,placed_6m,704966
+STU1796,Nursing,2,7.56,3,0,0,0.6,0.7,6,placed_6m,511837
+STU1797,Engineering,1,5.67,2,1,1,0.75,1.0,6,placed_6m,762399
+STU1798,Engineering,1,6.98,2,0,0,0.75,1.0,6,placed_6m,792906
+STU1799,Engineering,2,8.37,0,4,0,0.75,0.7,12,placed_12m,694755
+STU1800,Arts,2,7.14,1,4,0,0.35,0.7,12,placed_12m,353804
+STU1801,Nursing,3,7.75,2,3,1,0.6,0.45,6,placed_6m,476865
+STU1802,MBA,3,6.85,2,1,0,0.7,0.45,12,placed_12m,855839
+STU1803,Engineering,3,6.07,0,4,1,0.75,0.45,6,placed_6m,630064
+STU1804,MBA,2,7.06,2,2,1,0.7,0.7,3,placed_3m,884489
+STU1805,Nursing,3,7.54,1,2,1,0.6,0.45,12,placed_12m,399972
+STU1806,Data Science,2,6.48,0,2,1,0.85,0.7,12,placed_12m,1069118
+STU1807,Engineering,2,6.94,1,0,0,0.75,0.7,6,placed_6m,757707
+STU1808,Engineering,1,6.17,1,0,0,0.75,1.0,12,placed_12m,657560
+STU1809,Engineering,1,8.43,1,2,0,0.75,1.0,6,placed_6m,768053
+STU1810,Data Science,3,6.88,0,3,1,0.85,0.45,24,delayed,920097
+STU1811,Nursing,2,8.8,0,3,0,0.6,0.7,24,delayed,447369
+STU1812,Engineering,2,8.88,2,0,0,0.75,0.7,6,placed_6m,776034
+STU1813,Engineering,2,7.11,0,2,1,0.75,0.7,24,delayed,702774
+STU1814,Engineering,2,6.09,0,3,0,0.75,0.7,6,placed_6m,613354
+STU1815,Arts,2,4.91,1,0,0,0.35,0.7,12,placed_12m,273252
+STU1816,Engineering,2,5.58,1,2,1,0.75,0.7,12,placed_12m,705780
+STU1817,Nursing,3,5.69,2,1,1,0.6,0.45,12,placed_12m,391055
+STU1818,Data Science,3,8.72,1,2,0,0.85,0.45,6,placed_6m,986045
+STU1819,MBA,2,7.33,2,2,0,0.7,0.7,6,placed_6m,878794
+STU1820,Engineering,2,7.63,2,4,1,0.75,0.7,3,placed_3m,723264
+STU1821,Engineering,2,4.76,0,4,0,0.75,0.7,12,placed_12m,676364
+STU1822,Data Science,3,5.88,0,1,1,0.85,0.45,12,placed_12m,974788
+STU1823,Nursing,2,8.18,1,1,0,0.6,0.7,24,delayed,484091
+STU1824,Data Science,2,7.52,1,2,1,0.85,0.7,12,placed_12m,1115733
+STU1825,Data Science,1,7.04,2,3,0,0.85,1.0,12,placed_12m,1187342
+STU1826,Engineering,2,7.82,1,1,1,0.75,0.7,3,placed_3m,691861
+STU1827,Arts,2,9.0,1,2,0,0.35,0.7,3,placed_3m,350325
+STU1828,Nursing,3,6.96,0,0,1,0.6,0.45,6,placed_6m,378536
+STU1829,Engineering,2,7.28,0,4,0,0.75,0.7,6,placed_6m,674685
+STU1830,Arts,2,7.41,1,3,0,0.35,0.7,6,placed_6m,346123
+STU1831,Data Science,3,9.83,1,2,1,0.85,0.45,12,placed_12m,1125599
+STU1832,Data Science,3,4.89,1,0,1,0.85,0.45,12,placed_12m,988008
+STU1833,Nursing,2,7.95,0,4,1,0.6,0.7,12,placed_12m,407080
+STU1834,Law,2,7.07,2,0,1,0.45,0.7,6,placed_6m,618935
+STU1835,Data Science,2,7.82,2,2,1,0.85,0.7,3,placed_3m,1027552
+STU1836,Engineering,3,6.48,1,1,1,0.75,0.45,6,placed_6m,655327
+STU1837,MBA,1,7.15,1,4,1,0.7,1.0,12,placed_12m,956150
+STU1838,Arts,3,7.98,3,0,1,0.35,0.45,3,placed_3m,340400
+STU1839,Engineering,3,10.0,1,1,0,0.75,0.45,6,placed_6m,782954
+STU1840,MBA,2,8.09,1,3,1,0.7,0.7,6,placed_6m,853872
+STU1841,MBA,1,6.27,0,2,1,0.7,1.0,12,placed_12m,753945
+STU1842,MBA,2,6.73,2,2,0,0.7,0.7,3,placed_3m,923754
+STU1843,Data Science,2,6.7,0,4,1,0.85,0.7,6,placed_6m,1126874
+STU1844,Arts,1,5.22,3,0,0,0.35,1.0,6,placed_6m,313335
+STU1845,Engineering,3,6.84,2,3,1,0.75,0.45,3,placed_3m,744022
+STU1846,Engineering,3,8.01,2,4,0,0.75,0.45,3,placed_3m,722517
+STU1847,Engineering,2,5.8,2,4,0,0.75,0.7,6,placed_6m,616337
+STU1848,Law,3,8.35,1,0,1,0.45,0.45,6,placed_6m,543989
+STU1849,Data Science,1,7.74,1,3,1,0.85,1.0,12,placed_12m,1121781
+STU1850,Engineering,2,6.39,2,0,1,0.75,0.7,6,placed_6m,678856
+STU1851,Law,1,7.04,3,2,1,0.45,1.0,3,placed_3m,595466
+STU1852,Law,2,8.96,1,1,1,0.45,0.7,3,placed_3m,564733
+STU1853,Law,3,8.01,3,2,0,0.45,0.45,6,placed_6m,580053
+STU1854,Arts,3,7.21,1,2,1,0.35,0.45,12,placed_12m,314809
+STU1855,Engineering,1,6.94,1,4,1,0.75,1.0,3,placed_3m,734099
+STU1856,Nursing,2,7.28,1,2,1,0.6,0.7,6,placed_6m,431280
+STU1857,MBA,2,6.64,0,3,0,0.7,0.7,24,delayed,816002
+STU1858,Law,2,4.88,0,2,1,0.45,0.7,12,placed_12m,546220
+STU1859,Nursing,3,9.45,0,3,0,0.6,0.45,6,placed_6m,467912
+STU1860,Nursing,3,7.37,1,0,1,0.6,0.45,12,placed_12m,420725
+STU1861,Data Science,2,7.64,1,4,1,0.85,0.7,12,placed_12m,1129029
+STU1862,Engineering,2,7.14,1,3,1,0.75,0.7,6,placed_6m,654516
+STU1863,Data Science,2,6.39,3,2,1,0.85,0.7,12,placed_12m,1049917
+STU1864,Arts,1,7.0,1,4,0,0.35,1.0,24,delayed,326765
+STU1865,Arts,2,5.44,1,4,1,0.35,0.7,6,placed_6m,275494
+STU1866,Engineering,2,9.7,0,3,1,0.75,0.7,6,placed_6m,737489
+STU1867,Engineering,3,5.84,0,3,0,0.75,0.45,12,placed_12m,504663
+STU1868,Engineering,3,6.06,2,1,1,0.75,0.45,6,placed_6m,750229
+STU1869,Nursing,1,6.72,1,1,0,0.6,1.0,6,placed_6m,430017
+STU1870,Law,2,8.62,2,4,1,0.45,0.7,3,placed_3m,704074
+STU1871,Engineering,1,7.22,0,1,1,0.75,1.0,12,placed_12m,713306
+STU1872,Data Science,1,5.84,1,2,1,0.85,1.0,12,placed_12m,1075981
+STU1873,Law,3,8.58,1,0,0,0.45,0.45,12,placed_12m,569108
+STU1874,Nursing,1,8.0,0,4,0,0.6,1.0,6,placed_6m,476648
+STU1875,Data Science,2,7.79,0,0,1,0.85,0.7,24,delayed,1063487
+STU1876,Data Science,1,7.99,0,1,1,0.85,1.0,6,placed_6m,1161026
+STU1877,Data Science,3,9.83,1,3,0,0.85,0.45,3,placed_3m,1188679
+STU1878,Engineering,2,9.6,0,4,0,0.75,0.7,3,placed_3m,740678
+STU1879,Data Science,2,6.44,3,1,0,0.85,0.7,12,placed_12m,1033921
+STU1880,Data Science,2,8.99,1,2,1,0.85,0.7,12,placed_12m,1008101
+STU1881,Law,3,7.62,0,4,1,0.45,0.45,12,placed_12m,568965
+STU1882,Data Science,3,7.75,0,4,1,0.85,0.45,6,placed_6m,1081386
+STU1883,Nursing,2,5.34,1,3,1,0.6,0.7,12,placed_12m,453924
+STU1884,Engineering,3,7.01,0,4,1,0.75,0.45,6,placed_6m,661525
+STU1885,MBA,3,6.31,2,3,1,0.7,0.45,6,placed_6m,786107
+STU1886,Engineering,3,8.11,3,1,0,0.75,0.45,3,placed_3m,662115
+STU1887,Engineering,2,8.38,0,2,1,0.75,0.7,6,placed_6m,767845
+STU1888,Nursing,2,4.92,1,2,1,0.6,0.7,24,delayed,332703
+STU1889,Arts,2,7.18,0,4,1,0.35,0.7,12,placed_12m,307031
+STU1890,Engineering,3,8.43,2,4,1,0.75,0.45,3,placed_3m,722504
+STU1891,MBA,2,6.99,1,1,1,0.7,0.7,12,placed_12m,856882
+STU1892,Law,3,8.0,1,3,1,0.45,0.45,6,placed_6m,581898
+STU1893,Engineering,2,7.59,0,2,1,0.75,0.7,6,placed_6m,700719
+STU1894,Data Science,3,7.58,2,3,0,0.85,0.45,3,placed_3m,887381
+STU1895,Nursing,3,6.9,1,1,1,0.6,0.45,24,delayed,406441
+STU1896,Data Science,1,5.86,0,2,1,0.85,1.0,6,placed_6m,856999
+STU1897,Engineering,3,5.97,2,2,0,0.75,0.45,6,placed_6m,690635
+STU1898,MBA,2,7.98,1,0,1,0.7,0.7,12,placed_12m,864703
+STU1899,Nursing,3,7.22,2,1,1,0.6,0.45,6,placed_6m,373416
+STU1900,Data Science,2,7.05,0,1,0,0.85,0.7,6,placed_6m,958270
+STU1901,Engineering,2,6.73,2,0,1,0.75,0.7,6,placed_6m,681148
+STU1902,Nursing,3,6.86,2,3,1,0.6,0.45,12,placed_12m,463652
+STU1903,Engineering,2,8.35,0,0,1,0.75,0.7,12,placed_12m,718986
+STU1904,Nursing,3,6.83,2,1,0,0.6,0.45,6,placed_6m,442047
+STU1905,Engineering,2,5.72,1,3,1,0.75,0.7,12,placed_12m,707443
+STU1906,Arts,2,8.02,3,2,0,0.35,0.7,6,placed_6m,355798
+STU1907,MBA,2,6.97,0,0,1,0.7,0.7,12,placed_12m,880550
+STU1908,MBA,2,7.23,2,3,1,0.7,0.7,12,placed_12m,936076
+STU1909,Engineering,2,8.97,1,3,1,0.75,0.7,6,placed_6m,693799
+STU1910,MBA,1,7.18,3,3,0,0.7,1.0,6,placed_6m,1060655
+STU1911,Law,2,7.52,1,0,0,0.45,0.7,3,placed_3m,539682
+STU1912,Arts,1,5.9,3,2,0,0.35,1.0,3,placed_3m,367443
+STU1913,MBA,3,6.96,3,3,0,0.7,0.45,3,placed_3m,795226
+STU1914,MBA,3,7.87,1,0,1,0.7,0.45,12,placed_12m,892467
+STU1915,Nursing,2,5.49,2,1,1,0.6,0.7,6,placed_6m,481678
+STU1916,Law,3,7.42,3,0,1,0.45,0.45,3,placed_3m,593879
+STU1917,Data Science,2,7.31,1,0,1,0.85,0.7,6,placed_6m,1040281
+STU1918,MBA,3,7.25,1,0,0,0.7,0.45,6,placed_6m,878954
+STU1919,MBA,3,8.34,1,3,0,0.7,0.45,3,placed_3m,868331
+STU1920,Data Science,3,7.57,1,0,0,0.85,0.45,6,placed_6m,1156220
+STU1921,Engineering,2,8.83,0,1,1,0.75,0.7,12,placed_12m,733001
+STU1922,Data Science,3,6.11,0,3,1,0.85,0.45,6,placed_6m,906515
+STU1923,MBA,2,7.35,1,1,0,0.7,0.7,6,placed_6m,851314
+STU1924,Nursing,3,7.29,1,4,0,0.6,0.45,6,placed_6m,399320
+STU1925,Engineering,1,6.02,0,0,1,0.75,1.0,6,placed_6m,653082
+STU1926,Data Science,2,8.25,2,3,1,0.85,0.7,3,placed_3m,1111463
+STU1927,MBA,3,9.76,2,3,1,0.7,0.45,6,placed_6m,932259
+STU1928,Data Science,3,7.18,0,0,1,0.85,0.45,12,placed_12m,919269
+STU1929,Engineering,1,7.76,2,2,0,0.75,1.0,3,placed_3m,879660
+STU1930,Data Science,3,7.29,2,2,1,0.85,0.45,3,placed_3m,974391
+STU1931,Data Science,1,6.42,3,1,1,0.85,1.0,6,placed_6m,1142985
+STU1932,Data Science,2,5.2,0,0,0,0.85,0.7,24,delayed,942533
+STU1933,Data Science,2,6.42,0,0,1,0.85,0.7,12,placed_12m,1022931
+STU1934,Data Science,2,5.67,3,4,1,0.85,0.7,6,placed_6m,1040628
+STU1935,Law,2,9.07,3,2,0,0.45,0.7,3,placed_3m,659109
+STU1936,Engineering,2,7.07,2,2,1,0.75,0.7,12,placed_12m,732875
+STU1937,Law,1,6.82,2,0,0,0.45,1.0,6,placed_6m,633231
+STU1938,MBA,1,8.18,0,1,0,0.7,1.0,3,placed_3m,923952
+STU1939,Engineering,2,5.97,1,0,1,0.75,0.7,6,placed_6m,590512
+STU1940,Engineering,3,6.36,0,1,0,0.75,0.45,12,placed_12m,597233
+STU1941,MBA,3,7.27,0,2,1,0.7,0.45,12,placed_12m,740264
+STU1942,Nursing,1,8.33,2,4,1,0.6,1.0,3,placed_3m,483977
+STU1943,Nursing,2,7.75,0,3,0,0.6,0.7,12,placed_12m,438995
+STU1944,Nursing,1,7.47,1,2,1,0.6,1.0,6,placed_6m,483812
+STU1945,Data Science,1,7.29,3,1,1,0.85,1.0,6,placed_6m,1299809
+STU1946,MBA,3,7.64,0,0,1,0.7,0.45,12,placed_12m,790515
+STU1947,Engineering,2,7.42,3,2,1,0.75,0.7,3,placed_3m,790086
+STU1948,MBA,1,6.07,3,4,0,0.7,1.0,3,placed_3m,953683
+STU1949,MBA,2,7.25,1,1,1,0.7,0.7,24,delayed,929660
+STU1950,Engineering,1,6.02,0,0,1,0.75,1.0,6,placed_6m,710727
+STU1951,Engineering,3,7.29,1,3,1,0.75,0.45,24,delayed,604268
+STU1952,Data Science,3,6.67,1,1,0,0.85,0.45,6,placed_6m,860898
+STU1953,Nursing,1,9.99,1,0,1,0.6,1.0,12,placed_12m,525502
+STU1954,Arts,2,7.16,1,3,0,0.35,0.7,6,placed_6m,315381
+STU1955,Arts,3,5.66,3,0,1,0.35,0.45,12,placed_12m,285415
+STU1956,Data Science,3,7.05,0,3,1,0.85,0.45,12,placed_12m,869592
+STU1957,MBA,2,7.77,2,3,1,0.7,0.7,3,placed_3m,938894
+STU1958,Data Science,1,9.04,0,3,1,0.85,1.0,3,placed_3m,1274761
+STU1959,Nursing,1,6.55,1,0,0,0.6,1.0,12,placed_12m,438223
+STU1960,Engineering,2,5.46,3,3,0,0.75,0.7,3,placed_3m,722362
+STU1961,MBA,2,8.1,1,1,0,0.7,0.7,6,placed_6m,905683
+STU1962,Law,1,5.68,0,4,0,0.45,1.0,6,placed_6m,509208
+STU1963,MBA,2,6.72,2,4,0,0.7,0.7,6,placed_6m,929222
+STU1964,Data Science,1,6.92,2,3,1,0.85,1.0,6,placed_6m,1046179
+STU1965,Data Science,3,7.12,2,4,1,0.85,0.45,6,placed_6m,1036860
+STU1966,Engineering,2,7.96,1,4,0,0.75,0.7,6,placed_6m,708849
+STU1967,MBA,1,6.45,1,3,1,0.7,1.0,6,placed_6m,948509
+STU1968,MBA,2,6.9,3,3,1,0.7,0.7,3,placed_3m,858032
+STU1969,Engineering,2,7.18,3,1,1,0.75,0.7,6,placed_6m,760790
+STU1970,Engineering,3,7.36,1,2,1,0.75,0.45,3,placed_3m,640876
+STU1971,Law,2,7.31,2,0,0,0.45,0.7,6,placed_6m,584329
+STU1972,Engineering,2,7.68,1,3,1,0.75,0.7,12,placed_12m,534898
+STU1973,Data Science,3,8.13,1,3,1,0.85,0.45,6,placed_6m,1201151
+STU1974,Engineering,2,7.63,0,4,0,0.75,0.7,12,placed_12m,714383
+STU1975,Arts,3,7.7,1,1,0,0.35,0.45,6,placed_6m,303629
+STU1976,Engineering,2,5.46,1,4,0,0.75,0.7,24,delayed,573803
+STU1977,MBA,2,7.26,0,3,0,0.7,0.7,6,placed_6m,825457
+STU1978,Law,1,7.73,1,3,1,0.45,1.0,6,placed_6m,657278
+STU1979,Law,2,8.0,2,4,1,0.45,0.7,12,placed_12m,540195
+STU1980,Engineering,3,6.44,2,3,0,0.75,0.45,12,placed_12m,655356
+STU1981,Law,3,6.48,2,2,1,0.45,0.45,6,placed_6m,629785
+STU1982,MBA,2,6.57,3,0,1,0.7,0.7,6,placed_6m,836406
+STU1983,MBA,2,7.79,0,0,0,0.7,0.7,6,placed_6m,880075
+STU1984,Engineering,3,8.34,1,0,0,0.75,0.45,12,placed_12m,804876
+STU1985,Engineering,3,6.75,2,2,0,0.75,0.45,6,placed_6m,709397
+STU1986,Nursing,1,8.2,1,3,0,0.6,1.0,6,placed_6m,490521
+STU1987,MBA,2,7.34,1,4,0,0.7,0.7,6,placed_6m,913616
+STU1988,MBA,2,7.06,0,1,0,0.7,0.7,24,delayed,795821
+STU1989,Nursing,3,6.97,3,3,1,0.6,0.45,3,placed_3m,488715
+STU1990,Nursing,1,8.02,1,2,1,0.6,1.0,12,placed_12m,466431
+STU1991,Engineering,2,7.56,2,2,0,0.75,0.7,3,placed_3m,642953
+STU1992,Data Science,3,9.7,1,0,0,0.85,0.45,6,placed_6m,1093229
+STU1993,Engineering,1,6.26,2,3,1,0.75,1.0,3,placed_3m,687723
+STU1994,Nursing,2,7.77,2,0,1,0.6,0.7,6,placed_6m,459863
+STU1995,Data Science,2,6.62,2,1,1,0.85,0.7,3,placed_3m,1044525
+STU1996,Arts,2,6.24,1,0,1,0.35,0.7,24,delayed,330768
+STU1997,Engineering,2,7.19,1,1,0,0.75,0.7,3,placed_3m,739265
+STU1998,Engineering,2,7.35,2,2,0,0.75,0.7,6,placed_6m,739669
+STU1999,Engineering,1,10.0,1,0,1,0.75,1.0,6,placed_6m,822358
